@@ -702,6 +702,432 @@
     "books": []
   },
   {
+    "title": "I Built a $50M AI App in High School and Just Sold It For...",
+    "slug": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+    "episodeNumber": 802,
+    "date": "2026-03-05",
+    "guest": "zach-yadegari",
+    "hosts": [
+      "shaan-puri",
+      "sam-parr"
+    ],
+    "description": "Zach Yadegari, 19, returns to the pod after selling his AI calorie-tracking app Cal AI to MyFitnessPal. He breaks down how he grew the app from a high school side project to $30M in annual revenue, reveals the emotional rollercoaster of running an acquisition process for the first time against private equity pros, and shares his frameworks for validating ideas, making expected-value decisions, and what he plans to build next. Plus, his douchebag arc, a $500K Mr. Beast ad, and dinner with Steve Cohen.",
+    "duration": "1h 9m",
+    "youtubeId": "wgTOoJ_UkmQ",
+    "spotifyUrl": "",
+    "appleUrl": "",
+    "coverImage": "",
+    "insights": [
+      {
+        "title": "The Douchebag Arc: When Rage Bait Marketing Backfires on Your Reputation",
+        "slug": "the-douchebag-arc",
+        "tag": "big-mistake",
+        "episode": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+        "source": "zach-yadegari",
+        "oneLiner": "Zach launched a course with Lamborghini-and-cash videos inspired by Andrew Tate's playbook. It went viral — and started beef he did not need.",
+        "body": "Zach moved into a house in Miami with a group of young entrepreneurs. The original plan was solid: live together, build companies side by side, share learnings, and grow faster. Then they decided to document it. Then they realized filming was expensive. So they decided to monetize with a course teaching people how to build apps.\n\nThe mistake was the marketing angle. Instead of selling the product, they decided to sell the dream. Zach recorded videos standing on a Lamborghini, throwing money in the air — the full Andrew Tate rage-bait playbook. It intentionally did not represent who any of them actually were. It was a calculated strategy to take over the Twitter timeline through controversy.\n\nIt worked in the narrowest sense. The content went viral. But it started beef with people in their network, damaged relationships, and contradicted the authentic, hardworking image Zach had carefully built through his first podcast appearance and his come-up story. Shaan called it the \"douchebag arc\" — the phase where a promising young founder temporarily loses the plot. Looking back, Zach admits the Twitter launch did not even target the right audience for the course. The platform's users were not who they were trying to reach.\n\nZach's takeaway: the story is more interesting with the arc in it, but he would take a different angle if he could do it again. The lesson for anyone considering controversy marketing — rage bait can get attention, but the reputational cost compounds long after the views fade.",
+        "episodeData": {
+          "title": "I Built a $50M AI App in High School and Just Sold It For...",
+          "slug": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+          "episodeNumber": 802,
+          "date": "2026-03-05",
+          "guest": "zach-yadegari",
+          "hosts": [
+            "shaan-puri",
+            "sam-parr"
+          ],
+          "description": "Zach Yadegari, 19, returns to the pod after selling his AI calorie-tracking app Cal AI to MyFitnessPal. He breaks down how he grew the app from a high school side project to $30M in annual revenue, reveals the emotional rollercoaster of running an acquisition process for the first time against private equity pros, and shares his frameworks for validating ideas, making expected-value decisions, and what he plans to build next. Plus, his douchebag arc, a $500K Mr. Beast ad, and dinner with Steve Cohen.",
+          "duration": "1h 9m",
+          "youtubeId": "wgTOoJ_UkmQ",
+          "spotifyUrl": "",
+          "appleUrl": "",
+          "coverImage": ""
+        },
+        "authorData": {
+          "name": "Zach Yadegari",
+          "slug": "zach-yadegari",
+          "role": "Founder & CEO",
+          "bio": "Built Cal AI, an AI-powered calorie tracking app, while still in high school. Grew it to $30M in annual revenue by age 19 and sold the company to MyFitnessPal. Currently a freshman at the University of Miami, planning his next venture.",
+          "avatar": "",
+          "twitter": "https://x.com/zach_yadegari",
+          "website": "",
+          "isHost": false
+        }
+      },
+      {
+        "title": "Semantic Search for Your Social Media Followers: The App Nobody Has Built Yet",
+        "slug": "semantic-search-for-social-followers",
+        "tag": "business-idea",
+        "episode": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+        "source": "zach-yadegari",
+        "oneLiner": "You have no idea who follows you. A semantic search tool for Instagram or X followers could be worth millions — for dating, networking, and deal flow.",
+        "body": "Zach tweeted about this idea two days before the episode and the post blew up. The concept: build an app that lets you semantically search through your followers on Instagram or X. Instead of scrolling through thousands of names, you could query \"entrepreneurs in Miami\" or \"people who work in AI\" and instantly surface the relevant connections hiding in your follower list.\n\nThe use cases are wide and immediately obvious. Dating — Instagram is quietly one of the biggest dating platforms, and being able to search your followers by type would be powerful. Networking — Zach discovered that after his tweet went viral, a ton of interesting people had followed him that he had no idea about. There is no notification system that flags \"someone notable just followed you.\" Deal flow, recruiting, partnership scouting — the applications stack up fast.\n\nThe reason nobody has built this well is likely a combination of API restrictions and the fact that it seems like a feature, not a product. But Zach frames it as a clear \"few million dollar idea\" — the kind of focused consumer app that a small team could build and monetize quickly. It is not a billion-dollar opportunity, which is exactly why he is not building it himself, but it is perfect for someone looking to build their first profitable app.\n\nThe starting point would be a Chrome extension or mobile app that indexes your follower list and layers semantic search on top. Start with one platform, prove the value, and expand from there.",
+        "episodeData": {
+          "title": "I Built a $50M AI App in High School and Just Sold It For...",
+          "slug": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+          "episodeNumber": 802,
+          "date": "2026-03-05",
+          "guest": "zach-yadegari",
+          "hosts": [
+            "shaan-puri",
+            "sam-parr"
+          ],
+          "description": "Zach Yadegari, 19, returns to the pod after selling his AI calorie-tracking app Cal AI to MyFitnessPal. He breaks down how he grew the app from a high school side project to $30M in annual revenue, reveals the emotional rollercoaster of running an acquisition process for the first time against private equity pros, and shares his frameworks for validating ideas, making expected-value decisions, and what he plans to build next. Plus, his douchebag arc, a $500K Mr. Beast ad, and dinner with Steve Cohen.",
+          "duration": "1h 9m",
+          "youtubeId": "wgTOoJ_UkmQ",
+          "spotifyUrl": "",
+          "appleUrl": "",
+          "coverImage": ""
+        },
+        "authorData": {
+          "name": "Zach Yadegari",
+          "slug": "zach-yadegari",
+          "role": "Founder & CEO",
+          "bio": "Built Cal AI, an AI-powered calorie tracking app, while still in high school. Grew it to $30M in annual revenue by age 19 and sold the company to MyFitnessPal. Currently a freshman at the University of Miami, planning his next venture.",
+          "avatar": "",
+          "twitter": "https://x.com/zach_yadegari",
+          "website": "",
+          "isHost": false
+        }
+      },
+      {
+        "title": "The 'When, Not If' Language Rewiring That Built a $50M Company",
+        "slug": "when-not-if-language-rewiring",
+        "tag": "founder-psychology",
+        "episode": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+        "source": "zach-yadegari",
+        "oneLiner": "Zach caught himself saying 'if I'm rich' as a kid, corrected it to 'when I'm rich,' and built the habit of speaking outcomes into existence.",
+        "body": "Zach tells a story from when he was young, sitting in the car with his mom. He said, \"If I'm rich when I'm older, I want to do this.\" Then he caught himself and changed it: \"When I'm rich, I'm going to do this.\" From that moment, he became conscious about shifting his language from conditional to certain.\n\nThis was not naive optimism. Zach admits he had constant doubts. He looked at his audacious goals — making a million dollars before graduating high school, building a $50M company — and thought \"this is crazy.\" But he deliberately curated his mental environment to counterbalance the doubt. He filled his TikTok feed exclusively with motivational speakers. His entire For You page became David Goggins yelling \"Get back to work.\" He consumed so much motivational content that it directly inspired his first app, Grind Clock — a motivational alarm clock.\n\nThe pattern here is not just positive thinking. It is deliberate environmental design paired with language discipline. Zach did not wait for confidence to arrive naturally. He manufactured it by controlling his inputs — what he watched, what he said, who he listened to — until the belief became self-reinforcing. The company he wanted to build required him to be someone who believed it was possible, so he engineered that belief first.\n\nThe shift from \"if\" to \"when\" sounds small. But language shapes thought, thought shapes action, and action shapes outcomes. Zach made a video in his kitchen at 13 or 14 saying he would make a million dollars before graduating high school. He did not just hit that target — he obliterated it.",
+        "episodeData": {
+          "title": "I Built a $50M AI App in High School and Just Sold It For...",
+          "slug": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+          "episodeNumber": 802,
+          "date": "2026-03-05",
+          "guest": "zach-yadegari",
+          "hosts": [
+            "shaan-puri",
+            "sam-parr"
+          ],
+          "description": "Zach Yadegari, 19, returns to the pod after selling his AI calorie-tracking app Cal AI to MyFitnessPal. He breaks down how he grew the app from a high school side project to $30M in annual revenue, reveals the emotional rollercoaster of running an acquisition process for the first time against private equity pros, and shares his frameworks for validating ideas, making expected-value decisions, and what he plans to build next. Plus, his douchebag arc, a $500K Mr. Beast ad, and dinner with Steve Cohen.",
+          "duration": "1h 9m",
+          "youtubeId": "wgTOoJ_UkmQ",
+          "spotifyUrl": "",
+          "appleUrl": "",
+          "coverImage": ""
+        },
+        "authorData": {
+          "name": "Zach Yadegari",
+          "slug": "zach-yadegari",
+          "role": "Founder & CEO",
+          "bio": "Built Cal AI, an AI-powered calorie tracking app, while still in high school. Grew it to $30M in annual revenue by age 19 and sold the company to MyFitnessPal. Currently a freshman at the University of Miami, planning his next venture.",
+          "avatar": "",
+          "twitter": "https://x.com/zach_yadegari",
+          "website": "",
+          "isHost": false
+        }
+      },
+      {
+        "title": "Expected Value Decision Making: How a 19-Year-Old Used Gambling Math to Decide When to Sell",
+        "slug": "expected-value-decision-making",
+        "tag": "framework",
+        "episode": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+        "source": "zach-yadegari",
+        "oneLiner": "Multiply the probability of each outcome by its payoff. The option with the highest expected value wins — not the one that feels best.",
+        "body": "Zach's co-founder Blake Anderson taught him expected value thinking, and it became the core framework behind every major decision at Cal AI — including the decision to sell. The formula is borrowed from professional gamblers: take the probability of an outcome, multiply it by the payoff, and compare it across your options.\n\nWhen an acquisition offer comes in, founders get emotional. They anchor on the big number or panic about leaving money on the table. EV cuts through that. You take the certain offer — say $100 with a 100% chance of closing — and compare it to the alternative: keeping the company, where maybe there is a 20% chance of reaching $500 but also a 10% chance of it going to zero. Run the math. The certain path often wins.\n\nZach applied this when deciding whether to sell Cal AI. He weighed the guaranteed payout against the probability-adjusted upside of continued growth, factoring in the real risk that consumer apps can plateau or get disrupted. The math pointed toward selling. The compounding value of liquid capital at 19, invested over decades, made the certain outcome dramatically more valuable than the uncertain one.\n\nThe framework works beyond acquisitions. Use it for hiring decisions, marketing bets, product pivots — anywhere you are choosing between a known outcome and a speculative one. The key is forcing yourself to assign honest probabilities instead of defaulting to optimism or fear.",
+        "episodeData": {
+          "title": "I Built a $50M AI App in High School and Just Sold It For...",
+          "slug": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+          "episodeNumber": 802,
+          "date": "2026-03-05",
+          "guest": "zach-yadegari",
+          "hosts": [
+            "shaan-puri",
+            "sam-parr"
+          ],
+          "description": "Zach Yadegari, 19, returns to the pod after selling his AI calorie-tracking app Cal AI to MyFitnessPal. He breaks down how he grew the app from a high school side project to $30M in annual revenue, reveals the emotional rollercoaster of running an acquisition process for the first time against private equity pros, and shares his frameworks for validating ideas, making expected-value decisions, and what he plans to build next. Plus, his douchebag arc, a $500K Mr. Beast ad, and dinner with Steve Cohen.",
+          "duration": "1h 9m",
+          "youtubeId": "wgTOoJ_UkmQ",
+          "spotifyUrl": "",
+          "appleUrl": "",
+          "coverImage": ""
+        },
+        "authorData": {
+          "name": "Zach Yadegari",
+          "slug": "zach-yadegari",
+          "role": "Founder & CEO",
+          "bio": "Built Cal AI, an AI-powered calorie tracking app, while still in high school. Grew it to $30M in annual revenue by age 19 and sold the company to MyFitnessPal. Currently a freshman at the University of Miami, planning his next venture.",
+          "avatar": "",
+          "twitter": "https://x.com/zach_yadegari",
+          "website": "",
+          "isHost": false
+        }
+      },
+      {
+        "title": "The Idea Validation Filter: How to Know Which Ideas Are Worth Building",
+        "slug": "idea-validation-filter",
+        "tag": "framework",
+        "episode": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+        "source": "zach-yadegari",
+        "oneLiner": "Coming up with ideas is easy. The real skill is a framework to filter them — marketability, personal experience, and adjacent company revenue.",
+        "body": "Zach gets asked constantly how he came up with the idea for Cal AI. His answer: that is the wrong question. Everyone can come up with ideas. The harder and more valuable skill is knowing which ideas are good and which are bad, so you can filter quickly and commit to the right one.\n\nHis personal filter has three layers. First, marketability: can this go viral? Can he see exactly what the TikTok or Instagram ad would look like? If the marketing angle is not obvious, the idea is probably not for him. Second, personal experience: does he use this himself, or does he know people who would? He needs to know specifically who he is building for. Third, adjacent company revenue: is there an existing company in a related space already doing significant revenue? When Zach saw that MyFitnessPal was doing $200 million a year, he knew the calorie tracking market had a proven floor, not a theoretical ceiling.\n\nThe adjacent company test is the most counterintuitive part. Most aspiring founders hear \"that already exists\" and get discouraged. Zach heard it in his university entrepreneurship class — students pitching ideas and classmates immediately saying \"that already exists.\" But competition is validation. If a company in your space is still growing, it means there are still underserved customers. The market is big enough for multiple winners.\n\nBefore you have the intuition to assess ideas by gut, you can use objective inputs: TAM of the space, competitive landscape, and the revenue of adjacent companies. But ultimately the filter is personal — what are you good at, what do you know, and what can you market better than anyone else?",
+        "episodeData": {
+          "title": "I Built a $50M AI App in High School and Just Sold It For...",
+          "slug": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+          "episodeNumber": 802,
+          "date": "2026-03-05",
+          "guest": "zach-yadegari",
+          "hosts": [
+            "shaan-puri",
+            "sam-parr"
+          ],
+          "description": "Zach Yadegari, 19, returns to the pod after selling his AI calorie-tracking app Cal AI to MyFitnessPal. He breaks down how he grew the app from a high school side project to $30M in annual revenue, reveals the emotional rollercoaster of running an acquisition process for the first time against private equity pros, and shares his frameworks for validating ideas, making expected-value decisions, and what he plans to build next. Plus, his douchebag arc, a $500K Mr. Beast ad, and dinner with Steve Cohen.",
+          "duration": "1h 9m",
+          "youtubeId": "wgTOoJ_UkmQ",
+          "spotifyUrl": "",
+          "appleUrl": "",
+          "coverImage": ""
+        },
+        "authorData": {
+          "name": "Zach Yadegari",
+          "slug": "zach-yadegari",
+          "role": "Founder & CEO",
+          "bio": "Built Cal AI, an AI-powered calorie tracking app, while still in high school. Grew it to $30M in annual revenue by age 19 and sold the company to MyFitnessPal. Currently a freshman at the University of Miami, planning his next venture.",
+          "avatar": "",
+          "twitter": "https://x.com/zach_yadegari",
+          "website": "",
+          "isHost": false
+        }
+      },
+      {
+        "title": "The Influencer-to-Paid-Ads Growth Ladder: How Cal AI Broke Past $2M/Month",
+        "slug": "influencer-to-paid-ads-growth-ladder",
+        "tag": "growth-distribution",
+        "episode": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+        "source": "zach-yadegari",
+        "oneLiner": "Influencer marketing got Cal AI to $2M/month. Then it plateaued. Performance ads on Instagram, TikTok, and Facebook broke through the ceiling.",
+        "body": "Cal AI's initial growth engine was influencer marketing. Zach would message creators and get them to make organic-feeling content about the app. This strategy, covered in detail on his first podcast appearance, was responsible for getting the company to roughly $2 million per month in revenue. Then it hit a ceiling.\n\nThe next phase required a completely different channel: paid performance ads on Instagram, TikTok, and Facebook. Zach invested significant time learning how to scale ad campaigns and by January was spending over a million dollars a month on ads — while still maintaining efficient unit economics with $5.7 million in revenue that same month.\n\nThe mechanism here is a two-stage growth ladder. Stage one uses organic and influencer channels to prove product-market fit and build initial traction at low cost. Stage two transitions to paid acquisition once the economics are proven and the creative playbook is established. Many consumer apps stall because they never make the leap from stage one to stage two, either because they cannot make the paid math work or because the founders do not invest in learning a fundamentally different skill set.\n\nThe risk is clear: spending a million a month on ads means a bad month can be devastating. But Zach had already validated demand through the influencer phase, which gave him confidence that the paid spend would convert. The influencer content also became the creative template for the ads themselves, reducing the learning curve.",
+        "episodeData": {
+          "title": "I Built a $50M AI App in High School and Just Sold It For...",
+          "slug": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+          "episodeNumber": 802,
+          "date": "2026-03-05",
+          "guest": "zach-yadegari",
+          "hosts": [
+            "shaan-puri",
+            "sam-parr"
+          ],
+          "description": "Zach Yadegari, 19, returns to the pod after selling his AI calorie-tracking app Cal AI to MyFitnessPal. He breaks down how he grew the app from a high school side project to $30M in annual revenue, reveals the emotional rollercoaster of running an acquisition process for the first time against private equity pros, and shares his frameworks for validating ideas, making expected-value decisions, and what he plans to build next. Plus, his douchebag arc, a $500K Mr. Beast ad, and dinner with Steve Cohen.",
+          "duration": "1h 9m",
+          "youtubeId": "wgTOoJ_UkmQ",
+          "spotifyUrl": "",
+          "appleUrl": "",
+          "coverImage": ""
+        },
+        "authorData": {
+          "name": "Zach Yadegari",
+          "slug": "zach-yadegari",
+          "role": "Founder & CEO",
+          "bio": "Built Cal AI, an AI-powered calorie tracking app, while still in high school. Grew it to $30M in annual revenue by age 19 and sold the company to MyFitnessPal. Currently a freshman at the University of Miami, planning his next venture.",
+          "avatar": "",
+          "twitter": "https://x.com/zach_yadegari",
+          "website": "",
+          "isHost": false
+        }
+      },
+      {
+        "title": "Nest Egg First, Then Bet on Yourself: A 19-Year-Old's Wealth Strategy After a Big Exit",
+        "slug": "nest-egg-then-self-fund",
+        "tag": "money-advice",
+        "episode": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+        "source": "zach-yadegari",
+        "oneLiner": "Put 70% in the S&P, 25% in bonds, keep the rest in Bitcoin and gold — then fund your next company from the pile when you are ready.",
+        "body": "Zach's investment philosophy after selling Cal AI is remarkably simple for a 19-year-old: he does not like investing in other people. He does not want to rely on someone else's CEO to make the right decisions to grow their company. So he is keeping the vast majority of his exit in passive vehicles and reserving capital to fund his own future ventures.\n\nThe allocation: roughly 70-75% in the S&P 500, about 25% in money market funds and bonds, and a few percentage points scattered across Bitcoin and gold. No angel investing, no complex portfolio, no hedge fund allocations. The S&P 500 is the core holding because at 19, the compounding runway is absurd — even modest returns over 40+ years turn a large exit into generational wealth.\n\nThe strategic layer is what makes this interesting. Zach plans to raise venture capital for his next company rather than fully self-fund, because the exit proceeds are now his \"nest egg\" — the floor he never needs to worry about. He is willing to take outsized risks on his own ventures, referencing Elon Musk splitting his wealth between Tesla and SpaceX when both nearly went bankrupt. But the key is that the nest egg exists as a safety net first.\n\nThe principle compounds in two ways: financially through market returns, and psychologically through the freedom it provides. When you know you are financially secure regardless of outcome, you can take bigger swings on your next venture without the desperation that leads to bad decisions. Security enables risk.",
+        "episodeData": {
+          "title": "I Built a $50M AI App in High School and Just Sold It For...",
+          "slug": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+          "episodeNumber": 802,
+          "date": "2026-03-05",
+          "guest": "zach-yadegari",
+          "hosts": [
+            "shaan-puri",
+            "sam-parr"
+          ],
+          "description": "Zach Yadegari, 19, returns to the pod after selling his AI calorie-tracking app Cal AI to MyFitnessPal. He breaks down how he grew the app from a high school side project to $30M in annual revenue, reveals the emotional rollercoaster of running an acquisition process for the first time against private equity pros, and shares his frameworks for validating ideas, making expected-value decisions, and what he plans to build next. Plus, his douchebag arc, a $500K Mr. Beast ad, and dinner with Steve Cohen.",
+          "duration": "1h 9m",
+          "youtubeId": "wgTOoJ_UkmQ",
+          "spotifyUrl": "",
+          "appleUrl": "",
+          "coverImage": ""
+        },
+        "authorData": {
+          "name": "Zach Yadegari",
+          "slug": "zach-yadegari",
+          "role": "Founder & CEO",
+          "bio": "Built Cal AI, an AI-powered calorie tracking app, while still in high school. Grew it to $30M in annual revenue by age 19 and sold the company to MyFitnessPal. Currently a freshman at the University of Miami, planning his next venture.",
+          "avatar": "",
+          "twitter": "https://x.com/zach_yadegari",
+          "website": "",
+          "isHost": false
+        }
+      },
+      {
+        "title": "Learn 20% of Three Skills Instead of 100% of One: The Pareto Skill Stack",
+        "slug": "the-pareto-principle-for-skill-stacking",
+        "tag": "tactic",
+        "episode": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+        "source": "zach-yadegari",
+        "oneLiner": "You don't need to be world-class at anything. Learn the 20% of coding, marketing, and leadership that gets 80% of results — then stack them.",
+        "body": "Zach is not a prodigy coder. He is not a marketing genius. He is not a management savant. What he is, is dangerous at all three. And the combination is what built a $30M/year company before he turned 20.\n\nThe approach is the Pareto principle applied to skill acquisition: learn the 20% of each skill that gets you 80% of the results, then stack multiple skills together. Zach learned enough coding to understand how to lead a technical team and evaluate developers. He learned enough marketing to run influencer campaigns and paid ads. He learned enough management to hire people smarter than him in each domain.\n\nThe mistake most aspiring founders make is thinking they need to be a 900 IQ genius to enter a space. Zach explicitly calls this out as a misconception he held early on. The reality is simpler: give any skill 6 months of full focus and you will be good enough to be dangerous. That is all you need at one skill — then you stack two or three others.\n\nThis is especially powerful in the age of AI tools that lower the technical bar for building products. The differentiator is no longer deep expertise in one domain. It is the ability to combine competence across building, selling, and leading into a package that no specialist can replicate.",
+        "episodeData": {
+          "title": "I Built a $50M AI App in High School and Just Sold It For...",
+          "slug": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+          "episodeNumber": 802,
+          "date": "2026-03-05",
+          "guest": "zach-yadegari",
+          "hosts": [
+            "shaan-puri",
+            "sam-parr"
+          ],
+          "description": "Zach Yadegari, 19, returns to the pod after selling his AI calorie-tracking app Cal AI to MyFitnessPal. He breaks down how he grew the app from a high school side project to $30M in annual revenue, reveals the emotional rollercoaster of running an acquisition process for the first time against private equity pros, and shares his frameworks for validating ideas, making expected-value decisions, and what he plans to build next. Plus, his douchebag arc, a $500K Mr. Beast ad, and dinner with Steve Cohen.",
+          "duration": "1h 9m",
+          "youtubeId": "wgTOoJ_UkmQ",
+          "spotifyUrl": "",
+          "appleUrl": "",
+          "coverImage": ""
+        },
+        "authorData": {
+          "name": "Zach Yadegari",
+          "slug": "zach-yadegari",
+          "role": "Founder & CEO",
+          "bio": "Built Cal AI, an AI-powered calorie tracking app, while still in high school. Grew it to $30M in annual revenue by age 19 and sold the company to MyFitnessPal. Currently a freshman at the University of Miami, planning his next venture.",
+          "avatar": "",
+          "twitter": "https://x.com/zach_yadegari",
+          "website": "",
+          "isHost": false
+        }
+      },
+      {
+        "title": "The Warm Intro Acquisition Playbook: How to Sell Without Looking Like You're Selling",
+        "slug": "warm-intro-acquisition-playbook",
+        "tag": "tactic",
+        "episode": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+        "source": "zach-yadegari",
+        "oneLiner": "Never cold-email a potential acquirer. Get someone else to make the intro as if it were their idea — you lose all leverage the moment you look desperate.",
+        "body": "When Zach decided to explore selling Cal AI, he made a list of 10 companies that were the most logical acquirers. Then instead of reaching out directly, he found mutual connections who could make warm introductions. The key detail: the intro had to feel like the connector's idea, not Zach's request. Something like \"Hey, I think you guys should meet — this is a cool company\" rather than \"My friend wants to sell, are you interested?\"\n\nThis preserves leverage. The moment a founder cold-emails corp dev saying \"we're exploring strategic options,\" the power dynamic shifts entirely. The buyer knows you want out. With a warm intro framed as a casual connection, the conversation starts on equal footing.\n\nZach got on calls with several CEOs this way. Most shut it down quickly — some even declined in the initial email. But a few were interested, and after just a couple of meetings, offers started coming in faster than expected. The warm intro approach meant he entered those conversations positioned as someone worth knowing, not someone looking for an exit.\n\nIf you are thinking about selling, start building relationships with potential connectors months or years before you need them. The best acquisition outcomes come from conversations that never feel like a sales process.",
+        "episodeData": {
+          "title": "I Built a $50M AI App in High School and Just Sold It For...",
+          "slug": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+          "episodeNumber": 802,
+          "date": "2026-03-05",
+          "guest": "zach-yadegari",
+          "hosts": [
+            "shaan-puri",
+            "sam-parr"
+          ],
+          "description": "Zach Yadegari, 19, returns to the pod after selling his AI calorie-tracking app Cal AI to MyFitnessPal. He breaks down how he grew the app from a high school side project to $30M in annual revenue, reveals the emotional rollercoaster of running an acquisition process for the first time against private equity pros, and shares his frameworks for validating ideas, making expected-value decisions, and what he plans to build next. Plus, his douchebag arc, a $500K Mr. Beast ad, and dinner with Steve Cohen.",
+          "duration": "1h 9m",
+          "youtubeId": "wgTOoJ_UkmQ",
+          "spotifyUrl": "",
+          "appleUrl": "",
+          "coverImage": ""
+        },
+        "authorData": {
+          "name": "Zach Yadegari",
+          "slug": "zach-yadegari",
+          "role": "Founder & CEO",
+          "bio": "Built Cal AI, an AI-powered calorie tracking app, while still in high school. Grew it to $30M in annual revenue by age 19 and sold the company to MyFitnessPal. Currently a freshman at the University of Miami, planning his next venture.",
+          "avatar": "",
+          "twitter": "https://x.com/zach_yadegari",
+          "website": "",
+          "isHost": false
+        }
+      },
+      {
+        "title": "Rejected From Every Ivy League With a $15M Company",
+        "slug": "rejected-from-every-ivy-league-with-a-15m-company",
+        "tag": "wild-story",
+        "episode": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+        "source": "zach-yadegari",
+        "oneLiner": "A teenager running a $15M/year business with a 4.0 GPA got rejected from every Ivy League school — and the rejection tweet got 40 million views.",
+        "body": "Zach Yadegari had a 4.0 unweighted GPA. He was running a company doing $15 million a year in revenue. He applied to every Ivy League school and Stanford. One by one, the rejections rolled in. Stanford, his top choice, said no. Every single one said no.\n\nHe tweeted about it. The post exploded — 40 million views. The mayor of Miami texted him. Alex Hormozi reached out. A wave of successful entrepreneurs and public figures rallied behind him. The rejection letter pile became the single best marketing event of his young career.\n\nThe twist is that getting rejected was better than getting accepted. The viral moment gave Zach more connections, more visibility, and more credibility than any Ivy League acceptance letter would have. The mayor of Miami's outreach partly influenced his decision to attend the University of Miami, where he moved into a house with other young entrepreneurs and built the network that supported him through the acquisition. As Shaan put it: \"Nobody wants a team that's too perfect and successful. You kind of needed a little bit of likability, a little bit of rejection in the backstory.\"\n\nThe lesson is counterintuitive but real: sometimes the setback is the setup. Zach's college rejection story made him more relatable, more visible, and more connected than admission to Stanford ever could have.",
+        "episodeData": {
+          "title": "I Built a $50M AI App in High School and Just Sold It For...",
+          "slug": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+          "episodeNumber": 802,
+          "date": "2026-03-05",
+          "guest": "zach-yadegari",
+          "hosts": [
+            "shaan-puri",
+            "sam-parr"
+          ],
+          "description": "Zach Yadegari, 19, returns to the pod after selling his AI calorie-tracking app Cal AI to MyFitnessPal. He breaks down how he grew the app from a high school side project to $30M in annual revenue, reveals the emotional rollercoaster of running an acquisition process for the first time against private equity pros, and shares his frameworks for validating ideas, making expected-value decisions, and what he plans to build next. Plus, his douchebag arc, a $500K Mr. Beast ad, and dinner with Steve Cohen.",
+          "duration": "1h 9m",
+          "youtubeId": "wgTOoJ_UkmQ",
+          "spotifyUrl": "",
+          "appleUrl": "",
+          "coverImage": ""
+        },
+        "authorData": {
+          "name": "Zach Yadegari",
+          "slug": "zach-yadegari",
+          "role": "Founder & CEO",
+          "bio": "Built Cal AI, an AI-powered calorie tracking app, while still in high school. Grew it to $30M in annual revenue by age 19 and sold the company to MyFitnessPal. Currently a freshman at the University of Miami, planning his next venture.",
+          "avatar": "",
+          "twitter": "https://x.com/zach_yadegari",
+          "website": "",
+          "isHost": false
+        }
+      },
+      {
+        "title": "The Accidental Acquisition: How a Call About Freemium Turned Into a Sale to MyFitnessPal",
+        "slug": "the-accidental-acquisition-that-started-as-a-freemium-call",
+        "tag": "wild-story",
+        "episode": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+        "source": "zach-yadegari",
+        "oneLiner": "Zach called MyFitnessPal's CEO to ask about freemium strategy. They refused to answer a single question — and pivoted the conversation into acquiring his company.",
+        "body": "After Zach's first round of acquisition talks fell apart with lowball offers, he accepted that Cal AI might just be a long-term cash-flowing business. He started planning accordingly: looking for a CEO to bring on so he could step away, and thinking about how to make the company endure for a decade. The conclusion was that the app needed to go freemium, because every long-lasting app he could think of had a freemium model.\n\nAnd who was really good at freemium? MyFitnessPal. So Zach reached out to their CEO, pitched the call as \"catching up,\" and planned to squeeze as much information about freemium strategy as possible. He got on the call. They did not answer a single question about freemium. Not one.\n\nInstead, MyFitnessPal's team spun the entire conversation. They redirected it from Zach asking about their strategy to them exploring whether \"something else makes sense\" — a partnership, or maybe more. That call became the starting point of the acquisition that would ultimately close months later, with Cal AI being fully acquired by MyFitnessPal.\n\nThe irony is beautiful: Zach went in trying to extract free consulting from a competitor, and walked out having accidentally started the biggest deal of his life. The lesson is that the best deals happen when you are not looking for them. When Zach had given up on selling and was genuinely focused on building for the long term, he became exactly the kind of founder an acquirer wants to buy.",
+        "episodeData": {
+          "title": "I Built a $50M AI App in High School and Just Sold It For...",
+          "slug": "i-built-a-50m-ai-app-in-high-school-and-just-sold-it-for",
+          "episodeNumber": 802,
+          "date": "2026-03-05",
+          "guest": "zach-yadegari",
+          "hosts": [
+            "shaan-puri",
+            "sam-parr"
+          ],
+          "description": "Zach Yadegari, 19, returns to the pod after selling his AI calorie-tracking app Cal AI to MyFitnessPal. He breaks down how he grew the app from a high school side project to $30M in annual revenue, reveals the emotional rollercoaster of running an acquisition process for the first time against private equity pros, and shares his frameworks for validating ideas, making expected-value decisions, and what he plans to build next. Plus, his douchebag arc, a $500K Mr. Beast ad, and dinner with Steve Cohen.",
+          "duration": "1h 9m",
+          "youtubeId": "wgTOoJ_UkmQ",
+          "spotifyUrl": "",
+          "appleUrl": "",
+          "coverImage": ""
+        },
+        "authorData": {
+          "name": "Zach Yadegari",
+          "slug": "zach-yadegari",
+          "role": "Founder & CEO",
+          "bio": "Built Cal AI, an AI-powered calorie tracking app, while still in high school. Grew it to $30M in annual revenue by age 19 and sold the company to MyFitnessPal. Currently a freshman at the University of Miami, planning his next venture.",
+          "avatar": "",
+          "twitter": "https://x.com/zach_yadegari",
+          "website": "",
+          "isHost": false
+        }
+      }
+    ],
+    "tagBreakdown": {
+      "big-mistake": 1,
+      "business-idea": 1,
+      "founder-psychology": 1,
+      "framework": 2,
+      "growth-distribution": 1,
+      "money-advice": 1,
+      "tactic": 2,
+      "wild-story": 2
+    },
+    "books": []
+  },
+  {
     "title": "The Simple Way to Create More Luck, Friends, and Opportunity",
     "slug": "the-simple-way-to-create-more-luck",
     "episodeNumber": 457,

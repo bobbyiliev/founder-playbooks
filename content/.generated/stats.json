@@ -1,14 +1,14 @@
 {
-  "totalInsights": 49,
-  "totalEpisodes": 5,
+  "totalInsights": 60,
+  "totalEpisodes": 6,
   "tagCounts": {
-    "big-mistake": 6,
-    "business-idea": 3,
-    "founder-psychology": 6,
-    "framework": 12,
-    "growth-distribution": 2,
-    "money-advice": 2,
-    "tactic": 8,
-    "wild-story": 10
+    "big-mistake": 7,
+    "business-idea": 4,
+    "founder-psychology": 7,
+    "framework": 14,
+    "growth-distribution": 3,
+    "money-advice": 3,
+    "tactic": 10,
+    "wild-story": 12
   }
 }
