@@ -470,7 +470,76 @@
       "tactic": 1,
       "wild-story": 2
     },
-    "booksRecommended": []
+    "booksRecommended": [
+      {
+        "title": "Getting Real",
+        "slug": "getting-real",
+        "bookAuthor": "Jason Fried & David Heinemeier Hansson",
+        "coverImage": "",
+        "description": "The first book from 37signals — a smarter, faster way to build a successful web application. Written 20 years ago, still holds up.",
+        "amazonUrl": "",
+        "mentions": [
+          {
+            "episode": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+            "recommendedBy": "david-heinemeier-hansson",
+            "episodeTitle": "DHH: $100M+ Advice That'll Piss Off Every Business Guru",
+            "recommenderName": "David Heinemeier Hansson"
+          }
+        ],
+        "timesRecommended": 1
+      },
+      {
+        "title": "Jab, Jab, Jab, Right Hook",
+        "slug": "jab-jab-jab-right-hook",
+        "bookAuthor": "Gary Vaynerchuk",
+        "coverImage": "",
+        "description": "Gary Vee's framework for social media marketing — give value 100 times (jabs), then occasionally ask for the sale (right hook).",
+        "amazonUrl": "",
+        "mentions": [
+          {
+            "episode": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+            "recommendedBy": "david-heinemeier-hansson",
+            "episodeTitle": "DHH: $100M+ Advice That'll Piss Off Every Business Guru",
+            "recommenderName": "David Heinemeier Hansson"
+          }
+        ],
+        "timesRecommended": 1
+      },
+      {
+        "title": "Maverick",
+        "slug": "maverick",
+        "bookAuthor": "Ricardo Semler",
+        "coverImage": "",
+        "description": "The story of how Ricardo Semler turned his father's Brazilian manufacturing company into a radically democratic workplace. A blueprint for running a company by your own rules.",
+        "amazonUrl": "",
+        "mentions": [
+          {
+            "episode": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+            "recommendedBy": "david-heinemeier-hansson",
+            "episodeTitle": "DHH: $100M+ Advice That'll Piss Off Every Business Guru",
+            "recommenderName": "David Heinemeier Hansson"
+          }
+        ],
+        "timesRecommended": 1
+      },
+      {
+        "title": "Rework",
+        "slug": "rework",
+        "bookAuthor": "Jason Fried & David Heinemeier Hansson",
+        "coverImage": "",
+        "description": "A manifesto for a new way of working — shorter, simpler, and more productive. Written by the founders of 37signals/Basecamp.",
+        "amazonUrl": "",
+        "mentions": [
+          {
+            "episode": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+            "recommendedBy": "david-heinemeier-hansson",
+            "episodeTitle": "DHH: $100M+ Advice That'll Piss Off Every Business Guru",
+            "recommenderName": "David Heinemeier Hansson"
+          }
+        ],
+        "timesRecommended": 1
+      }
+    ]
   },
   {
     "name": "Pat Walls",

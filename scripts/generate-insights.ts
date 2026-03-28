@@ -16,8 +16,25 @@
 
 import fs from "fs";
 import path from "path";
+import matter from "gray-matter";
 
 const CACHE_DIR = path.join(process.cwd(), "scripts", ".cache");
+const BOOKS_DIR = path.join(process.cwd(), "content", "books");
+
+function getExistingBooks(): { slug: string; title: string; bookAuthor: string }[] {
+  if (!fs.existsSync(BOOKS_DIR)) return [];
+  return fs.readdirSync(BOOKS_DIR)
+    .filter((f) => f.endsWith(".mdx"))
+    .map((f) => {
+      const raw = fs.readFileSync(path.join(BOOKS_DIR, f), "utf-8");
+      const { data } = matter(raw);
+      return {
+        slug: data.slug as string,
+        title: data.title as string,
+        bookAuthor: data.bookAuthor as string,
+      };
+    });
+}
 
 interface EpisodeData {
   title: string;
@@ -153,6 +170,39 @@ isHost: false
 ---
 \`\`\`
 
+### Step 6: Extract book mentions
+Scan the transcript and show notes for any books that are explicitly mentioned, recommended, or discussed. For each book, create a book MDX file.
+
+**Only include books that are clearly named in the episode.** Do not infer or guess. Look for patterns like:
+- "There's this book called..."
+- "I read [title] by [author]..."
+- "Have you read...?"
+- Book titles mentioned in show notes links
+- Direct recommendations ("you should read...", "one of my favorite books...")
+
+Write to: content/books/{slug}.mdx
+
+\`\`\`yaml
+---
+title: "Book Title"
+slug: book-slug
+bookAuthor: "Book Author Name"
+coverImage: ""
+description: "1-2 sentence description of the book and why it was mentioned."
+amazonUrl: ""
+mentions:
+  - episode: ${episode.slug}
+    recommendedBy: author-slug-who-mentioned-it
+---
+\`\`\`
+
+**Important:** If a book already exists in the project (check the list below), do NOT create a new file for it. Instead, note that a new mention should be added to the existing file's \`mentions\` array.
+
+Existing books (do not recreate — add new mentions to these instead):
+${getExistingBooks().map((b) => `- ${b.slug} (${b.title} by ${b.bookAuthor})`).join("\n") || "- (none yet)"}
+
+If no books are mentioned in this episode, that's fine — skip this step entirely.
+
 ---
 
 ## Output Format
@@ -165,6 +215,11 @@ Please output each file with a clear header showing the file path, then the comp
 \`\`\`
 
 ### FILE: content/insights/framework--example.mdx
+\`\`\`
+(full file content)
+\`\`\`
+
+### FILE: content/books/example.mdx
 \`\`\`
 (full file content)
 \`\`\`
