@@ -1,0 +1,1766 @@
+[
+  {
+    "title": "Excite Said No to Buying Google for $750,000",
+    "slug": "excite-said-no-to-google",
+    "tag": "big-mistake",
+    "episode": "the-simple-way-to-create-more-luck",
+    "source": "sheel-mohnot",
+    "oneLiner": "When your business model depends on users getting less of what they want, you're on borrowed time.",
+    "body": "In 1999, Google's founders offered to sell their search engine to Excite for $750,000. Excite said no because Google's search was too good — it helped users find what they needed too quickly, which meant they'd leave the site faster. Excite wanted users to stick around and see more ads. They optimized for the wrong metric and passed on the most valuable company of the next two decades.",
+    "episodeData": {
+      "title": "The Simple Way to Create More Luck, Friends, and Opportunity",
+      "slug": "the-simple-way-to-create-more-luck",
+      "episodeNumber": 457,
+      "date": "2025-01-15",
+      "guest": "sheel-mohnot",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sheel Mohnot breaks down how to engineer luck through asymmetric bets, power law thinking, and building relationships with a bias toward action. A masterclass in thinking about risk, upside, and what most founders get wrong.",
+      "duration": "1h 12m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sheel Mohnot",
+      "slug": "sheel-mohnot",
+      "role": "Investor",
+      "bio": "Investor who has deployed $450M across hundreds of startups. Co-founder of Better Tomorrow Ventures.",
+      "avatar": "",
+      "twitter": "https://x.com/pitdesi",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "DHH's Famous Bad Call: 'Facebook Is Not Worth $33 Billion'",
+    "slug": "facebook-not-worth-33-billion",
+    "tag": "big-mistake",
+    "episode": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+    "source": "david-heinemeier-hansson",
+    "oneLiner": "He pattern-matched Facebook's traffic to worthless e-card sites. He missed the invention of surveillance capitalism.",
+    "body": "In 2010, DHH published a blog post arguing that Facebook, despite 500 million users, was not worth $33 billion. VCs still pull it out regularly to dunk on him. Facebook is now worth over a trillion dollars. By any outcome-based measure, he was spectacularly wrong.\n\nAt the time, the reasoning seemed sound. Facebook had no real monetization strategy. They had massive traffic, but DHH pattern-matched it to sites like Blue Mountain, a hugely popular e-card site from the early 2000s that had tons of traffic and turned it into nothing. Facebook's traffic was people talking about random stuff with no purchase intent, the opposite of a Google search where someone is actively looking for something.\n\nWhat went wrong was that DHH did not foresee the alchemy of surveillance capitalism. The paradigm was already under construction but not yet widely understood. The breakthrough was that intent did not matter if you knew everything about everyone at all times. Facebook could serve better-targeted ads to someone scrolling mindlessly than a golf magazine could serve to someone actively reading about golf, because Facebook knew where you were, what you were doing, and whether you could be nudged. That alchemy turned trash traffic into gold.\n\nThe lesson DHH draws is not \"I should have bought Facebook stock.\" It is a deeper point about humility and intellectual honesty. Nobody else saw the alchemy either, or they would have bet the house at $33 billion. He revisits this wrong call at least yearly as a reminder that predictions deserve humility. Being publicly wrong and owning it is more valuable than the alternative of never making a call at all.",
+    "episodeData": {
+      "title": "DHH: $100M+ Advice That'll Piss Off Every Business Guru",
+      "slug": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+      "episodeNumber": 806,
+      "date": "2026-03-17",
+      "guest": "david-heinemeier-hansson",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "David Heinemeier Hansson, creator of Ruby on Rails and co-founder of Basecamp, shares 25 years of lessons from building a wildly profitable company without VC money, grinding culture, or AB tests. He breaks down why constraints breed creativity, why taste beats data, how he fought Apple over the App Store and won, and why his biggest public prediction failures taught him more than his wins. Plus, his rapid evolution on AI from skeptic to fully pilled in just three months.",
+      "duration": "1h 18m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "David Heinemeier Hansson",
+      "slug": "david-heinemeier-hansson",
+      "role": "Founder & CTO",
+      "bio": "Creator of Ruby on Rails, co-founder of 37signals and Basecamp, board member at Shopify, and Le Mans class winner. Has been building profitable software and writing about business contrarianism for over 25 years.",
+      "avatar": "",
+      "twitter": "https://x.com/dhh",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Kodak Invented the Digital Camera and Buried It",
+    "slug": "kodak-buried-digital-camera",
+    "tag": "big-mistake",
+    "episode": "the-simple-way-to-create-more-luck",
+    "source": "sheel-mohnot",
+    "oneLiner": "If you don't cannibalize yourself, someone else will — without the internal politics.",
+    "body": "Kodak had the digital camera in 1975. They shelved it to protect their film business. By the time digital photography went mainstream, Kodak was too late to catch up. The mistake wasn't technological — it was organizational. They let the fear of disrupting their existing revenue prevent them from owning the future. Every incumbent faces this choice, and most choose wrong.",
+    "episodeData": {
+      "title": "The Simple Way to Create More Luck, Friends, and Opportunity",
+      "slug": "the-simple-way-to-create-more-luck",
+      "episodeNumber": 457,
+      "date": "2025-01-15",
+      "guest": "sheel-mohnot",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sheel Mohnot breaks down how to engineer luck through asymmetric bets, power law thinking, and building relationships with a bias toward action. A masterclass in thinking about risk, upside, and what most founders get wrong.",
+      "duration": "1h 12m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sheel Mohnot",
+      "slug": "sheel-mohnot",
+      "role": "Investor",
+      "bio": "Investor who has deployed $450M across hundreds of startups. Co-founder of Better Tomorrow Ventures.",
+      "avatar": "",
+      "twitter": "https://x.com/pitdesi",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Napoleon Hill's Greatest Irony: He Preached Success While Living Its Opposite",
+    "slug": "napoleon-hill-greatest-irony",
+    "tag": "big-mistake",
+    "episode": "why-the-self-help-industry-is-built-on-lies",
+    "source": "sam-parr",
+    "oneLiner": "You can build something real on a fake foundation — for a while. Eventually the gap closes.",
+    "body": "Napoleon Hill spent his career teaching others how to get rich while he himself was frequently broke, in legal trouble, and estranged from his family. He preached persistence while quitting multiple ventures. He taught financial mastery while mismanaging his own money. The irony isn't just biographical — it's a warning about the gap between teaching and doing, and how long you can sustain a brand built on credentials you don't actually have.",
+    "episodeData": {
+      "title": "Why the Self-Help Industry Is Built on Lies",
+      "slug": "why-the-self-help-industry-is-built-on-lies",
+      "episodeNumber": 458,
+      "date": "2025-01-22",
+      "guest": "",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sam and Shaan dissect the self-help industrial complex — from Napoleon Hill's fabricated credentials to the pottery experiment that proves quantity beats quality. A sharp look at what actually works vs. what just sells books.",
+      "duration": "58m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sam Parr",
+      "slug": "sam-parr",
+      "role": "Host",
+      "bio": "Co-host of My First Million. Founder of The Hustle (acquired by HubSpot). Co-founder of Hampton.",
+      "avatar": "",
+      "twitter": "https://x.com/theSamParr",
+      "website": "",
+      "isHost": true
+    }
+  },
+  {
+    "title": "Ron Wayne Sold 10% of Apple for $800",
+    "slug": "ron-wayne-sold-apple-stake",
+    "tag": "big-mistake",
+    "episode": "the-simple-way-to-create-more-luck",
+    "source": "sheel-mohnot",
+    "oneLiner": "Short-term fear of downside destroyed the greatest upside in business history.",
+    "body": "Ron Wayne was Apple's third co-founder. He owned 10% of the company. Twelve days after signing the founding documents, he sold his stake for $800 because he was worried about personal liability if the company failed. That stake would eventually be worth over $300 billion. It's the most expensive case of loss aversion in recorded history.",
+    "episodeData": {
+      "title": "The Simple Way to Create More Luck, Friends, and Opportunity",
+      "slug": "the-simple-way-to-create-more-luck",
+      "episodeNumber": 457,
+      "date": "2025-01-15",
+      "guest": "sheel-mohnot",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sheel Mohnot breaks down how to engineer luck through asymmetric bets, power law thinking, and building relationships with a bias toward action. A masterclass in thinking about risk, upside, and what most founders get wrong.",
+      "duration": "1h 12m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sheel Mohnot",
+      "slug": "sheel-mohnot",
+      "role": "Investor",
+      "bio": "Investor who has deployed $450M across hundreds of startups. Co-founder of Better Tomorrow Ventures.",
+      "avatar": "",
+      "twitter": "https://x.com/pitdesi",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "SoftBank Sold Their Nvidia Stake to Bet on WeWork",
+    "slug": "softbank-sold-nvidia-for-wework",
+    "tag": "big-mistake",
+    "episode": "the-simple-way-to-create-more-luck",
+    "source": "sheel-mohnot",
+    "oneLiner": "Scale and boldness are not substitutes for judgment.",
+    "body": "SoftBank held a significant stake in Nvidia in its early days. They sold it to free up capital for other Vision Fund bets — including their massive investment in WeWork. The Nvidia stake alone would have been worth more than the entire Vision Fund's returns. The lesson: conviction in the wrong thing at scale doesn't become wisdom. It becomes a very expensive mistake.",
+    "episodeData": {
+      "title": "The Simple Way to Create More Luck, Friends, and Opportunity",
+      "slug": "the-simple-way-to-create-more-luck",
+      "episodeNumber": 457,
+      "date": "2025-01-15",
+      "guest": "sheel-mohnot",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sheel Mohnot breaks down how to engineer luck through asymmetric bets, power law thinking, and building relationships with a bias toward action. A masterclass in thinking about risk, upside, and what most founders get wrong.",
+      "duration": "1h 12m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sheel Mohnot",
+      "slug": "sheel-mohnot",
+      "role": "Investor",
+      "bio": "Investor who has deployed $450M across hundreds of startups. Co-founder of Better Tomorrow Ventures.",
+      "avatar": "",
+      "twitter": "https://x.com/pitdesi",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Build and Market an AI-Generated Music Artist",
+    "slug": "ai-generated-music-artist",
+    "tag": "business-idea",
+    "episode": "the-simple-way-to-create-more-luck",
+    "source": "sheel-mohnot",
+    "oneLiner": "AI music tools are ready. Nobody has systematically built a brand around an AI artist yet.",
+    "body": "AI music generation has reached the point where the output is genuinely good. But nobody has yet taken the obvious next step: creating a full artist persona, building a fanbase, and releasing music as a branded AI act. The opportunity isn't just in the music — it's in the merch, the live shows (with visuals), the social media presence, and the content machine you can build around a character that never needs sleep.",
+    "episodeData": {
+      "title": "The Simple Way to Create More Luck, Friends, and Opportunity",
+      "slug": "the-simple-way-to-create-more-luck",
+      "episodeNumber": 457,
+      "date": "2025-01-15",
+      "guest": "sheel-mohnot",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sheel Mohnot breaks down how to engineer luck through asymmetric bets, power law thinking, and building relationships with a bias toward action. A masterclass in thinking about risk, upside, and what most founders get wrong.",
+      "duration": "1h 12m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sheel Mohnot",
+      "slug": "sheel-mohnot",
+      "role": "Investor",
+      "bio": "Investor who has deployed $450M across hundreds of startups. Co-founder of Better Tomorrow Ventures.",
+      "avatar": "",
+      "twitter": "https://x.com/pitdesi",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Barry's Bootcamp for People Over 55",
+    "slug": "barrys-bootcamp-for-55-plus",
+    "tag": "business-idea",
+    "episode": "the-simple-way-to-create-more-luck",
+    "source": "sheel-mohnot",
+    "oneLiner": "Nobody has built a premium boutique fitness brand for the 55+ demographic.",
+    "body": "The boutique fitness market is massive but almost entirely focused on 25-45 year olds. Meanwhile, the 55+ demographic has more disposable income, more free time, and a greater health motivation than any other age group. Sheel sees a gap: a premium, community-driven fitness experience designed specifically for older adults. Think Barry's energy and brand quality, but with programming, pacing, and community tailored to people over 55.",
+    "episodeData": {
+      "title": "The Simple Way to Create More Luck, Friends, and Opportunity",
+      "slug": "the-simple-way-to-create-more-luck",
+      "episodeNumber": 457,
+      "date": "2025-01-15",
+      "guest": "sheel-mohnot",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sheel Mohnot breaks down how to engineer luck through asymmetric bets, power law thinking, and building relationships with a bias toward action. A masterclass in thinking about risk, upside, and what most founders get wrong.",
+      "duration": "1h 12m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sheel Mohnot",
+      "slug": "sheel-mohnot",
+      "role": "Investor",
+      "bio": "Investor who has deployed $450M across hundreds of startups. Co-founder of Better Tomorrow Ventures.",
+      "avatar": "",
+      "twitter": "https://x.com/pitdesi",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "The Epstein Files Podcast Model — AI-Generated Shows Around Dense Source Material",
+    "slug": "epstein-files-ai-podcast-model",
+    "tag": "business-idea",
+    "episode": "why-the-self-help-industry-is-built-on-lies",
+    "source": "shaan-puri",
+    "oneLiner": "Any topic with a large, dense, public corpus is a candidate for an AI-generated podcast.",
+    "body": "When the Epstein files dropped, someone quickly created an AI-generated podcast that summarized and discussed the documents. It went viral. Shaan sees this as a repeatable model: any time a large corpus of dense, public material appears — court documents, government reports, leaked archives — you can spin up an AI podcast that makes it accessible. The production cost is near zero, the speed-to-market advantage is massive, and the audience is pre-built around the topic.",
+    "episodeData": {
+      "title": "Why the Self-Help Industry Is Built on Lies",
+      "slug": "why-the-self-help-industry-is-built-on-lies",
+      "episodeNumber": 458,
+      "date": "2025-01-22",
+      "guest": "",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sam and Shaan dissect the self-help industrial complex — from Napoleon Hill's fabricated credentials to the pottery experiment that proves quantity beats quality. A sharp look at what actually works vs. what just sells books.",
+      "duration": "58m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Shaan Puri",
+      "slug": "shaan-puri",
+      "role": "Host",
+      "bio": "Co-host of My First Million. Former CEO of Bebo (acquired by Twitch). Angel investor and internet entrepreneur.",
+      "avatar": "",
+      "twitter": "https://x.com/ShaanVP",
+      "website": "",
+      "isHost": true
+    }
+  },
+  {
+    "title": "How DHH Went from AI Skeptic to 'Fully Pilled' in Three Months",
+    "slug": "ai-skeptic-to-believer-in-three-months",
+    "tag": "founder-psychology",
+    "episode": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+    "source": "david-heinemeier-hansson",
+    "oneLiner": "The last three months changed his relationship with computers more than the previous 30 years combined.",
+    "body": "DHH was impressed by AI from day one. He was a ChatGPT user from the first days of the interface. But impressed and converted are different things. For a long time, he used AI as a better Google, a better Stack Overflow, a pair programmer he could bounce problems off. He hated autocomplete in his editor because it interrupted his train of thought every five seconds to produce code he did not like. Not wrong code necessarily, but code that did not match his aesthetics.\n\nThe pattern held through his Lex Friedman interview in summer 2025, where he was essentially saying: this is amazing, you would be a fool not to take it seriously, but it is not in my business yet. He gave a similar take in early December. Then the models that dropped in late November, including Opus 4.5, crossed a threshold. The output went from \"I don't like what it's making\" to something he was willing to merge.\n\nThe shift in the last three months has been the most churn in DHH's mental approach to computers in his entire career. More deep questions, more workflow changes in his daily eight hours than in any previous period. He describes the experience as having grown 18 arms and seven more brains, operating 22 screens simultaneously. He is still doing the work, still directing everything, but the pace of progress when the stars align is unbelievable and addictive.\n\nWhat makes this psychologically interesting is that DHH is now in the consensus for the first time, and he is uncomfortable about it. He is a contrarian by nature. But he has concluded that at some point you just have to admit the math maths and that AI agents are incredibly capable. He was wrong about the timeline and says so openly, drawing a direct parallel to his Facebook prediction: sometimes you underestimate how quickly a paradigm shift will change everything.",
+    "episodeData": {
+      "title": "DHH: $100M+ Advice That'll Piss Off Every Business Guru",
+      "slug": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+      "episodeNumber": 806,
+      "date": "2026-03-17",
+      "guest": "david-heinemeier-hansson",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "David Heinemeier Hansson, creator of Ruby on Rails and co-founder of Basecamp, shares 25 years of lessons from building a wildly profitable company without VC money, grinding culture, or AB tests. He breaks down why constraints breed creativity, why taste beats data, how he fought Apple over the App Store and won, and why his biggest public prediction failures taught him more than his wins. Plus, his rapid evolution on AI from skeptic to fully pilled in just three months.",
+      "duration": "1h 18m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "David Heinemeier Hansson",
+      "slug": "david-heinemeier-hansson",
+      "role": "Founder & CTO",
+      "bio": "Creator of Ruby on Rails, co-founder of 37signals and Basecamp, board member at Shopify, and Le Mans class winner. Has been building profitable software and writing about business contrarianism for over 25 years.",
+      "avatar": "",
+      "twitter": "https://x.com/dhh",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "The Longevity Secret: Build a Company You Never Want to Leave",
+    "slug": "build-a-company-you-want-to-work-at",
+    "tag": "founder-psychology",
+    "episode": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+    "source": "david-heinemeier-hansson",
+    "oneLiner": "Too many founders build companies they hate and then spend years grinding toward an exit.",
+    "body": "DHH sees a pattern among entrepreneurs that he finds tremendously sad: they build companies they do not like and then spend their time in a hurry to get out. They grit their teeth through a two-to-five-year earn-out period after an exit, hoping to go on and live a good life afterward. The entire journey becomes instrumental, endured for the sake of the after.\n\nThe belief DHH and Jason Fried committed to from day one was the opposite. The number one longevity objective is ensuring that 37signals remains a place they want to work, not just tolerate but genuinely enjoy. They committed to the now rather than optimizing for some future payoff. That commitment has lasted 25-plus years and counting.\n\nThe counterintuitive finding is that this approach actually produces longevity. By not being instrumental about how they built the business, by taking money out from year two, by reaching what DHH calls \"escape velocity\" early, they eliminated the anxiety that wrecks most founders. He describes reaching a point around 2008 where everything felt like overtime. If it all stopped tomorrow, he would look back with immense gratitude.\n\nThe shift is about detachment from outcomes you cannot control anyway. The vast majority of entrepreneur anxiety is about forces outside their influence. The best you can do is the best you can do. DHH knows exactly where the 200%-effort road leads: exhaustion, stupidity, and mistakes. Building a sustainable pace and a company you love is not soft. It is the actual mechanism that lets you outlast seven generations of competitors.",
+    "episodeData": {
+      "title": "DHH: $100M+ Advice That'll Piss Off Every Business Guru",
+      "slug": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+      "episodeNumber": 806,
+      "date": "2026-03-17",
+      "guest": "david-heinemeier-hansson",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "David Heinemeier Hansson, creator of Ruby on Rails and co-founder of Basecamp, shares 25 years of lessons from building a wildly profitable company without VC money, grinding culture, or AB tests. He breaks down why constraints breed creativity, why taste beats data, how he fought Apple over the App Store and won, and why his biggest public prediction failures taught him more than his wins. Plus, his rapid evolution on AI from skeptic to fully pilled in just three months.",
+      "duration": "1h 18m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "David Heinemeier Hansson",
+      "slug": "david-heinemeier-hansson",
+      "role": "Founder & CTO",
+      "bio": "Creator of Ruby on Rails, co-founder of 37signals and Basecamp, board member at Shopify, and Le Mans class winner. Has been building profitable software and writing about business contrarianism for over 25 years.",
+      "avatar": "",
+      "twitter": "https://x.com/dhh",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Why the People Who Seek the Guru Role Are Often the Wrong People For It",
+    "slug": "guru-role-selection-problem",
+    "tag": "founder-psychology",
+    "episode": "why-the-self-help-industry-is-built-on-lies",
+    "source": "shaan-puri",
+    "oneLiner": "The desire to become a guru tends to attract people motivated by status, not mastery.",
+    "body": "There's a selection bias in who becomes a self-help guru. The people most drawn to the role tend to be motivated by audience, status, and income — not by deep expertise or genuine desire to help. Meanwhile, the people who actually have the most valuable advice are usually too busy doing the work to package it for consumption. This creates a market where the loudest voices are rarely the most credible ones.",
+    "episodeData": {
+      "title": "Why the Self-Help Industry Is Built on Lies",
+      "slug": "why-the-self-help-industry-is-built-on-lies",
+      "episodeNumber": 458,
+      "date": "2025-01-22",
+      "guest": "",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sam and Shaan dissect the self-help industrial complex — from Napoleon Hill's fabricated credentials to the pottery experiment that proves quantity beats quality. A sharp look at what actually works vs. what just sells books.",
+      "duration": "58m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Shaan Puri",
+      "slug": "shaan-puri",
+      "role": "Host",
+      "bio": "Co-host of My First Million. Former CEO of Bebo (acquired by Twitch). Angel investor and internet entrepreneur.",
+      "avatar": "",
+      "twitter": "https://x.com/ShaanVP",
+      "website": "",
+      "isHost": true
+    }
+  },
+  {
+    "title": "Why Ignorant 20-Year-Olds Change the World and Experienced Founders Get Stuck",
+    "slug": "liquid-vs-crystallized-intelligence",
+    "tag": "founder-psychology",
+    "episode": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+    "source": "david-heinemeier-hansson",
+    "oneLiner": "Ignorance is a benefit for a huge class of problems. You are cursed when you know too much.",
+    "body": "DHH draws on the research behind liquid versus crystallized intelligence to explain why young founders have a structural advantage. Nobel Prize winners in physics, chemistry, and math almost universally do their formative work in their 20s, apply it in their 30s, and receive the award in their 40s. Young people simply have faster, sharper cognitive processing, just like nobody runs the 100 meters at 42.\n\nBut the real insight is not just about speed. It is about ignorance as a feature. When you have no sense of what you are allowed to do, no sense that someone more experienced should be talking instead of you, no awareness of the established way things work, you are free to break paradigms. DHH goes so far as to say that ignorance is a benefit and that you are cursed once you have been through the loop once. When you know too much, you cannot unsee. You get locked into patterns.\n\nHe cites the HubSpot co-founder's experience: his first company, where he was making everything up, succeeded. His second company, where he knew how to do everything differently, failed. Just because you are ignorant does not mean you are wrong.\n\nThe shift for older founders is to recognize that crystallized intelligence, the ability to make deep connections across broad experience, is its own superpower. Nobel Prize winners in history average around age 80. The key is knowing which type of intelligence your current problem demands and not letting experience calcify into orthodoxy.",
+    "episodeData": {
+      "title": "DHH: $100M+ Advice That'll Piss Off Every Business Guru",
+      "slug": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+      "episodeNumber": 806,
+      "date": "2026-03-17",
+      "guest": "david-heinemeier-hansson",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "David Heinemeier Hansson, creator of Ruby on Rails and co-founder of Basecamp, shares 25 years of lessons from building a wildly profitable company without VC money, grinding culture, or AB tests. He breaks down why constraints breed creativity, why taste beats data, how he fought Apple over the App Store and won, and why his biggest public prediction failures taught him more than his wins. Plus, his rapid evolution on AI from skeptic to fully pilled in just three months.",
+      "duration": "1h 18m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "David Heinemeier Hansson",
+      "slug": "david-heinemeier-hansson",
+      "role": "Founder & CTO",
+      "bio": "Creator of Ruby on Rails, co-founder of 37signals and Basecamp, board member at Shopify, and Le Mans class winner. Has been building profitable software and writing about business contrarianism for over 25 years.",
+      "avatar": "",
+      "twitter": "https://x.com/dhh",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Take the Simple Idea All the Way",
+    "slug": "take-the-simple-idea-all-the-way",
+    "tag": "founder-psychology",
+    "episode": "the-simple-way-to-create-more-luck",
+    "source": "sheel-mohnot",
+    "oneLiner": "Most winning ideas aren't new. They're existing ideas taken to a level nobody else was willing to go.",
+    "body": "Founders often chase novelty when they should be chasing depth. The best businesses aren't built on ideas nobody has ever had — they're built on ideas everyone has had but nobody executed with enough intensity, consistency, or patience. Sheel's observation: the founders who win are usually the ones who picked something obvious and then simply refused to stop until it worked at scale.",
+    "episodeData": {
+      "title": "The Simple Way to Create More Luck, Friends, and Opportunity",
+      "slug": "the-simple-way-to-create-more-luck",
+      "episodeNumber": 457,
+      "date": "2025-01-15",
+      "guest": "sheel-mohnot",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sheel Mohnot breaks down how to engineer luck through asymmetric bets, power law thinking, and building relationships with a bias toward action. A masterclass in thinking about risk, upside, and what most founders get wrong.",
+      "duration": "1h 12m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sheel Mohnot",
+      "slug": "sheel-mohnot",
+      "role": "Investor",
+      "bio": "Investor who has deployed $450M across hundreds of startups. Co-founder of Better Tomorrow Ventures.",
+      "avatar": "",
+      "twitter": "https://x.com/pitdesi",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Taste Is the New Moat in the Age of AI",
+    "slug": "taste-is-the-new-moat-in-the-age-of-ai",
+    "tag": "founder-psychology",
+    "episode": "the-skill-that-made-steve-jobs-exceptional-and-how-to-learn-it",
+    "source": "sam-parr",
+    "oneLiner": "When AI can build anything, the hard part becomes making people feel something.",
+    "body": "Sam opens the episode with a sharp reframe: the competitive advantage used to be who could build stuff — who could raise the most money, hire the most engineers, ship the most code. AI is collapsing that advantage. The hard part now is not building. The hard part is appealing to people. Making someone visit your website and think, \"There's something special here. I'm drawn to this. I want to give them money.\"\n\nThis is a belief shift that changes what founders should invest their time learning. If execution is getting commoditized, then the differentiator moves upstream to judgment, aesthetics, and identity — all components of taste. Sam points to examples like David Protein Bars and the Swiffer mop. The Swiffer was not particularly different from other mops. They just named it something interesting. The product was table stakes. The taste was the moat.\n\nThe deeper point is that taste is not a soft, fuzzy luxury. It is an economic advantage. If you are going to make stuff, the likelihood of succeeding with good taste is dramatically higher than without it. And unlike technical skills that AI can replicate, taste requires the kind of human judgment and cultural fluency that remains stubbornly hard to automate.",
+    "episodeData": {
+      "title": "The Skill That Made Steve Jobs Exceptional (and how to learn it)",
+      "slug": "the-skill-that-made-steve-jobs-exceptional-and-how-to-learn-it",
+      "episodeNumber": 809,
+      "date": "2026-03-27",
+      "guest": "",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sam Parr lays out a four-step process for developing good taste — the skill he argues is becoming the ultimate moat in the age of AI. He traces the line from Bauhaus to Braun to the iPod to show how Steve Jobs used this exact playbook, then walks through how he personally applied it to fashion and how anyone can use it for web design, writing, or building a brand.",
+      "duration": "0h 20m",
+      "youtubeId": "bkkwlEK6_hQ",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sam Parr",
+      "slug": "sam-parr",
+      "role": "Host",
+      "bio": "Co-host of My First Million. Founder of The Hustle (acquired by HubSpot). Co-founder of Hampton.",
+      "avatar": "",
+      "twitter": "https://x.com/theSamParr",
+      "website": "",
+      "isHost": true
+    }
+  },
+  {
+    "title": "Why 2010's Biggest Opportunity Just Reopened",
+    "slug": "2010s-biggest-opportunity-reopened",
+    "tag": "framework",
+    "episode": "dumb-iphone-apps-are-making-people-rich-again",
+    "source": "pat-walls",
+    "oneLiner": "AI collapsed the build cost. TikTok solved distribution. The iPhone app gold rush is back.",
+    "body": "The original iPhone app gold rush died because build costs rose and the App Store became saturated. But two things have changed: AI has collapsed the cost of building an app to nearly zero, and TikTok has created a new distribution channel that bypasses the App Store's discovery problem entirely. Pat argues we're in a second gold rush — simple, focused apps that solve one problem and market through short-form video. The barrier to entry is lower than it's been in a decade.",
+    "episodeData": {
+      "title": "Dumb iPhone Apps Are Making People Rich Again",
+      "slug": "dumb-iphone-apps-are-making-people-rich-again",
+      "episodeNumber": 459,
+      "date": "2025-01-29",
+      "guest": "pat-walls",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Pat Walls shares how simple, 'dumb' iPhone apps are generating serious revenue again thanks to AI-lowered build costs and TikTok distribution. Plus a framework for knowing when you're stuck vs. when you just need to double down.",
+      "duration": "1h 05m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Pat Walls",
+      "slug": "pat-walls",
+      "role": "Founder",
+      "bio": "Founder of Starter Story — the largest collection of startup case studies on the internet, acquired by HubSpot.",
+      "avatar": "",
+      "twitter": "https://x.com/thepatwalls",
+      "website": "https://starterstory.com",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Asymmetric Bets: The Mental Upgrade That Changes Everything",
+    "slug": "asymmetric-bets",
+    "tag": "framework",
+    "episode": "the-simple-way-to-create-more-luck",
+    "source": "sheel-mohnot",
+    "oneLiner": "Your downside is capped. Your upside isn't. Start acting like it.",
+    "body": "Most people evaluate decisions by weighing the probability of success. But Sheel argues the real question is: what's the shape of the payoff? An asymmetric bet is one where you can't lose much, but you can gain enormously. The math changes when you realize most of the best outcomes in life come from bets where the downside was trivially small compared to the upside. Stop optimizing for probability. Start optimizing for payoff shape.",
+    "episodeData": {
+      "title": "The Simple Way to Create More Luck, Friends, and Opportunity",
+      "slug": "the-simple-way-to-create-more-luck",
+      "episodeNumber": 457,
+      "date": "2025-01-15",
+      "guest": "sheel-mohnot",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sheel Mohnot breaks down how to engineer luck through asymmetric bets, power law thinking, and building relationships with a bias toward action. A masterclass in thinking about risk, upside, and what most founders get wrong.",
+      "duration": "1h 12m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sheel Mohnot",
+      "slug": "sheel-mohnot",
+      "role": "Investor",
+      "bio": "Investor who has deployed $450M across hundreds of startups. Co-founder of Better Tomorrow Ventures.",
+      "avatar": "",
+      "twitter": "https://x.com/pitdesi",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Constraints Breed Creativity: How Having Nothing Forces You to Invent Everything",
+    "slug": "constraints-breed-creativity",
+    "tag": "framework",
+    "episode": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+    "source": "david-heinemeier-hansson",
+    "oneLiner": "Deprivation is the mother of invention. When you can't buy the solution, you build a better one.",
+    "body": "The model is simple: when you remove resources, you force novel solutions. DHH and Jason Fried started Basecamp in 2003 during the dotcom wasteland. They had no VC money, no team of 50, no budget for Oracle database licenses. They had a consulting business that had to fund every experiment. The constraint was total.\n\nThat constraint produced Ruby on Rails. DHH could not use the same technology as everyone else because he had a tenth, a hundredth, a thousandth of the capacity. He had to come up with something that allowed a single programmer to build an entire product alone. If they had raised $20 million and hired 100 people, they would have used the same tools as everyone else and Ruby on Rails would never have existed.\n\nDHH draws a direct parallel to DeepSeek's R1 moment. The storyline was that Chinese researchers, cut off from Nvidia GPUs by export restrictions, trained a competitive model for a fraction of the cost. Whether the exact numbers hold up or not, the fundamental principle is the same: constraints on resources forced novel techniques that advanced the entire field.\n\nApply this to your own situation. If you can't outspend the competition, you have to out-teach them, out-think them, or out-create them. The framework is not \"make do with less.\" It is \"less forces you to find optimizations that more would have hidden from you.\"",
+    "episodeData": {
+      "title": "DHH: $100M+ Advice That'll Piss Off Every Business Guru",
+      "slug": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+      "episodeNumber": 806,
+      "date": "2026-03-17",
+      "guest": "david-heinemeier-hansson",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "David Heinemeier Hansson, creator of Ruby on Rails and co-founder of Basecamp, shares 25 years of lessons from building a wildly profitable company without VC money, grinding culture, or AB tests. He breaks down why constraints breed creativity, why taste beats data, how he fought Apple over the App Store and won, and why his biggest public prediction failures taught him more than his wins. Plus, his rapid evolution on AI from skeptic to fully pilled in just three months.",
+      "duration": "1h 18m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "David Heinemeier Hansson",
+      "slug": "david-heinemeier-hansson",
+      "role": "Founder & CTO",
+      "bio": "Creator of Ruby on Rails, co-founder of 37signals and Basecamp, board member at Shopify, and Le Mans class winner. Has been building profitable software and writing about business contrarianism for over 25 years.",
+      "avatar": "",
+      "twitter": "https://x.com/dhh",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "The Ego Business vs. The Actual Business",
+    "slug": "ego-business-vs-actual-business",
+    "tag": "framework",
+    "episode": "dumb-iphone-apps-are-making-people-rich-again",
+    "source": "pat-walls",
+    "oneLiner": "Strip away what you want to be building — what's actually working?",
+    "body": "Every founder has two businesses running in their head: the ego business (the one that sounds impressive at dinner parties) and the actual business (the one that's generating revenue). Pat argues that most people who feel stuck are stuck because they keep investing in the ego business while neglecting the actual one. The fix is brutal honesty: look at your numbers, find what's actually making money, and ruthlessly double down on that — even if it's not the thing you'd brag about.",
+    "episodeData": {
+      "title": "Dumb iPhone Apps Are Making People Rich Again",
+      "slug": "dumb-iphone-apps-are-making-people-rich-again",
+      "episodeNumber": 459,
+      "date": "2025-01-29",
+      "guest": "pat-walls",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Pat Walls shares how simple, 'dumb' iPhone apps are generating serious revenue again thanks to AI-lowered build costs and TikTok distribution. Plus a framework for knowing when you're stuck vs. when you just need to double down.",
+      "duration": "1h 05m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Pat Walls",
+      "slug": "pat-walls",
+      "role": "Founder",
+      "bio": "Founder of Starter Story — the largest collection of startup case studies on the internet, acquired by HubSpot.",
+      "avatar": "",
+      "twitter": "https://x.com/thepatwalls",
+      "website": "https://starterstory.com",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Good Taste vs. Great Taste: Know the Rules Before You Break Them",
+    "slug": "good-taste-versus-great-taste",
+    "tag": "framework",
+    "episode": "the-skill-that-made-steve-jobs-exceptional-and-how-to-learn-it",
+    "source": "sam-parr",
+    "oneLiner": "Good taste is following the rules. Great taste is earning the right to break them.",
+    "body": "Sam draws a clean line between two levels of taste. Good taste means understanding what you want to say and following the established rules to say it. You study the tradition, you learn the constraints, and you operate within them skillfully. That alone puts you ahead of 90% of people.\n\nGreat taste is what happens after you have fully internalized those rules: you start breaking them deliberately. George Clinton mastered Motown, then broke its rules to create psychedelic funk. Dr. Dre mastered sampling, then started chopping and pitching tracks in ways nobody had heard before. The breaking only works because the foundation is solid.\n\nThe practical takeaway is that most people try to skip straight to originality without doing the groundwork. They want to be Kanye without first being the person who copies old Supremes records note for note. Sam argues the path is sequential and non-negotiable: learn the tradition, copy the masters, understand why it works, and only then do you earn permission to deviate. Attempting to break rules you never learned is not great taste — it is just bad taste with confidence.",
+    "episodeData": {
+      "title": "The Skill That Made Steve Jobs Exceptional (and how to learn it)",
+      "slug": "the-skill-that-made-steve-jobs-exceptional-and-how-to-learn-it",
+      "episodeNumber": 809,
+      "date": "2026-03-27",
+      "guest": "",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sam Parr lays out a four-step process for developing good taste — the skill he argues is becoming the ultimate moat in the age of AI. He traces the line from Bauhaus to Braun to the iPod to show how Steve Jobs used this exact playbook, then walks through how he personally applied it to fashion and how anyone can use it for web design, writing, or building a brand.",
+      "duration": "0h 20m",
+      "youtubeId": "bkkwlEK6_hQ",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sam Parr",
+      "slug": "sam-parr",
+      "role": "Host",
+      "bio": "Co-host of My First Million. Founder of The Hustle (acquired by HubSpot). Co-founder of Hampton.",
+      "avatar": "",
+      "twitter": "https://x.com/theSamParr",
+      "website": "",
+      "isHost": true
+    }
+  },
+  {
+    "title": "Power Law Thinking: Apply Portfolio Theory to Your Whole Life",
+    "slug": "power-law-thinking",
+    "tag": "framework",
+    "episode": "the-simple-way-to-create-more-luck",
+    "source": "sheel-mohnot",
+    "oneLiner": "A tiny minority of inputs will drive almost all of your outcomes.",
+    "body": "In venture capital, the power law is gospel: one deal returns more than the rest of the fund combined. Sheel extends this to life decisions — your career, relationships, habits, and side projects all follow the same distribution. Most things you try won't matter much. A few will matter enormously. The implication: you should be running more experiments, not fewer, because finding that one outsized winner is a numbers game.",
+    "episodeData": {
+      "title": "The Simple Way to Create More Luck, Friends, and Opportunity",
+      "slug": "the-simple-way-to-create-more-luck",
+      "episodeNumber": 457,
+      "date": "2025-01-15",
+      "guest": "sheel-mohnot",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sheel Mohnot breaks down how to engineer luck through asymmetric bets, power law thinking, and building relationships with a bias toward action. A masterclass in thinking about risk, upside, and what most founders get wrong.",
+      "duration": "1h 12m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sheel Mohnot",
+      "slug": "sheel-mohnot",
+      "role": "Investor",
+      "bio": "Investor who has deployed $450M across hundreds of startups. Co-founder of Better Tomorrow Ventures.",
+      "avatar": "",
+      "twitter": "https://x.com/pitdesi",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Quantity Is the Path to Quality",
+    "slug": "quantity-is-the-path-to-quality",
+    "tag": "framework",
+    "episode": "why-the-self-help-industry-is-built-on-lies",
+    "source": "shaan-puri",
+    "oneLiner": "The prolific person, not the perfectionist, produces the breakthrough.",
+    "body": "This framework extends the pottery experiment into a general principle: in almost every creative and entrepreneurial domain, the people who produce the most work also produce the best work. Not because they're more talented, but because volume creates the reps needed to develop taste, skill, and instinct. The perfectionist who ships once a year will almost always lose to the person who ships every week.",
+    "episodeData": {
+      "title": "Why the Self-Help Industry Is Built on Lies",
+      "slug": "why-the-self-help-industry-is-built-on-lies",
+      "episodeNumber": 458,
+      "date": "2025-01-22",
+      "guest": "",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sam and Shaan dissect the self-help industrial complex — from Napoleon Hill's fabricated credentials to the pottery experiment that proves quantity beats quality. A sharp look at what actually works vs. what just sells books.",
+      "duration": "58m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Shaan Puri",
+      "slug": "shaan-puri",
+      "role": "Host",
+      "bio": "Co-host of My First Million. Former CEO of Bebo (acquired by Twitch). Angel investor and internet entrepreneur.",
+      "avatar": "",
+      "twitter": "https://x.com/ShaanVP",
+      "website": "",
+      "isHost": true
+    }
+  },
+  {
+    "title": "Resulting: Why You Should Judge Decisions by the Process, Not the Outcome",
+    "slug": "resulting",
+    "tag": "framework",
+    "episode": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+    "source": "david-heinemeier-hansson",
+    "oneLiner": "If you go all in on an 87% hand and lose, you still made the right call.",
+    "body": "Resulting is a poker concept that DHH applies to business and predictions. It means evaluating your decision solely on the basis of the outcome. In poker, the math is explicit: if you have an 87% hand and go all in and lose, you made the correct decision. If you convince yourself you should not have played that hand, you will start making worse decisions going forward.\n\nDHH uses his own infamous \"Facebook is not worth $33 billion\" blog post from 2010 as the case study. VCs love to pull it out to dunk on him. His response: your entire business model is being wrong nine out of ten times. VCs have gotten tremendously rich being right only 10% of the time. Everyone misses shots. Not one shot, but hundreds, thousands, millions over a career.\n\nThe deeper analysis matters too. When DHH wrote that post, Facebook had no monetization strategy. He pattern-matched their traffic to sites like Blue Mountain, which had tons of traffic that turned out to be worthless. What he did not foresee was the alchemy of surveillance capitalism, which could turn aimless browsing into gold-level ad targeting. Nobody else saw it either, or they would have bet the house at $33 billion.\n\nThe application is to separate your process from your outcomes on a longer trend line. Remind yourself of your wrong calls regularly, as DHH does at least yearly. But do not let a bad outcome convince you the reasoning was flawed. That is how you end up playing 16% poker hands because you won the last three.",
+    "episodeData": {
+      "title": "DHH: $100M+ Advice That'll Piss Off Every Business Guru",
+      "slug": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+      "episodeNumber": 806,
+      "date": "2026-03-17",
+      "guest": "david-heinemeier-hansson",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "David Heinemeier Hansson, creator of Ruby on Rails and co-founder of Basecamp, shares 25 years of lessons from building a wildly profitable company without VC money, grinding culture, or AB tests. He breaks down why constraints breed creativity, why taste beats data, how he fought Apple over the App Store and won, and why his biggest public prediction failures taught him more than his wins. Plus, his rapid evolution on AI from skeptic to fully pilled in just three months.",
+      "duration": "1h 18m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "David Heinemeier Hansson",
+      "slug": "david-heinemeier-hansson",
+      "role": "Founder & CTO",
+      "bio": "Creator of Ruby on Rails, co-founder of 37signals and Basecamp, board member at Shopify, and Le Mans class winner. Has been building profitable software and writing about business contrarianism for over 25 years.",
+      "avatar": "",
+      "twitter": "https://x.com/dhh",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Systems Don't Create Growth. They Manage the Headache of It.",
+    "slug": "systems-dont-create-growth",
+    "tag": "framework",
+    "episode": "dumb-iphone-apps-are-making-people-rich-again",
+    "source": "pat-walls",
+    "oneLiner": "Do I have a growth problem or a management problem? No system fixes a growth problem.",
+    "body": "Founders love building systems. CRMs, dashboards, automations, SOPs. But Pat makes a critical distinction: systems manage complexity, they don't create growth. If you're not growing, no amount of systematization will fix it. You need to do the uncomfortable thing — talk to customers, make the sales calls, ship the feature. Systems are for when things are working and you need to handle the volume. They're not a substitute for traction.",
+    "episodeData": {
+      "title": "Dumb iPhone Apps Are Making People Rich Again",
+      "slug": "dumb-iphone-apps-are-making-people-rich-again",
+      "episodeNumber": 459,
+      "date": "2025-01-29",
+      "guest": "pat-walls",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Pat Walls shares how simple, 'dumb' iPhone apps are generating serious revenue again thanks to AI-lowered build costs and TikTok distribution. Plus a framework for knowing when you're stuck vs. when you just need to double down.",
+      "duration": "1h 05m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Pat Walls",
+      "slug": "pat-walls",
+      "role": "Founder",
+      "bio": "Founder of Starter Story — the largest collection of startup case studies on the internet, acquired by HubSpot.",
+      "avatar": "",
+      "twitter": "https://x.com/thepatwalls",
+      "website": "https://starterstory.com",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Why DHH Stopped Listening to the Numbers and Trusted His Gut Instead",
+    "slug": "taste-over-data",
+    "tag": "framework",
+    "episode": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+    "source": "david-heinemeier-hansson",
+    "oneLiner": "They had a data scientist for a decade. They never once did what the numbers told them to do.",
+    "body": "The problem DHH identifies is that most founders treat data as truth when it is actually a highly limited description of reality. For over a decade, 37signals had a data scientist on staff crunching numbers and running analyses. After all that time, DHH and Jason Fried came to an honest realization: they never did what the numbers told them to do.\n\nThe pattern was always the same. They would do whatever they wanted. If the numbers supported it, great. If the numbers contradicted it, they would rationalize it away. So they finally asked themselves: why are we doing this? The answer was they had listened too much to other people telling them this is how business is supposed to work.\n\nThe deeper insight is about what data cannot capture. You are not hearing from the customers who never sign up. You are not measuring the word of mouth that takes 18 months to materialize. When you keep drilling down on a limited data set, you steer yourself blind. You think you have found truth, but you have only found a narrow slice of measurable reality.\n\nThis is the luxury of margins. When you do not have investors demanding that you squeeze out the last two percentage points, you can afford to follow taste. DHH and Fried have outlasted seven generations of competitors who did all the AB testing, all the statistical analysis, all the conversion optimization. The ones who debased their copy because it converted slightly better for a hot second are gone. 37signals is still around.",
+    "episodeData": {
+      "title": "DHH: $100M+ Advice That'll Piss Off Every Business Guru",
+      "slug": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+      "episodeNumber": 806,
+      "date": "2026-03-17",
+      "guest": "david-heinemeier-hansson",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "David Heinemeier Hansson, creator of Ruby on Rails and co-founder of Basecamp, shares 25 years of lessons from building a wildly profitable company without VC money, grinding culture, or AB tests. He breaks down why constraints breed creativity, why taste beats data, how he fought Apple over the App Store and won, and why his biggest public prediction failures taught him more than his wins. Plus, his rapid evolution on AI from skeptic to fully pilled in just three months.",
+      "duration": "1h 18m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "David Heinemeier Hansson",
+      "slug": "david-heinemeier-hansson",
+      "role": "Founder & CTO",
+      "bio": "Creator of Ruby on Rails, co-founder of 37signals and Basecamp, board member at Shopify, and Le Mans class winner. Has been building profitable software and writing about business contrarianism for over 25 years.",
+      "avatar": "",
+      "twitter": "https://x.com/dhh",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "The Four-Step Process to Develop Good Taste",
+    "slug": "the-four-step-process-to-develop-good-taste",
+    "tag": "framework",
+    "episode": "the-skill-that-made-steve-jobs-exceptional-and-how-to-learn-it",
+    "source": "sam-parr",
+    "oneLiner": "Decide what to say, blindly copy, learn the rules, then study the history.",
+    "body": "Sam breaks down taste development into a repeatable four-step system. Step one: decide what you want to say — most people skip this and jump straight to copying random things without knowing why. Step two: blindly copy the people who already say what you want to say. Just like learning guitar by playing Jingle Bells before writing your own song, you copy to learn the texture. Step three: learn the rules — read books, watch videos, and ask yourself why the things you copied actually work. Step four: study the history behind those rules.\n\nThe definition of good taste, Sam argues, is understanding what you want to say and following the rules to say it. The definition of great taste is then taking those rules and breaking them. But you have to earn the right to break rules by mastering them first.\n\nThis framework applies to virtually anything — fashion, web design, writing, music production, branding. Sam spent three to five months on fashion using this exact process and claims it made him better than 90% of people. The key insight is that taste is not innate. It is a learnable skill with a concrete process behind it.",
+    "episodeData": {
+      "title": "The Skill That Made Steve Jobs Exceptional (and how to learn it)",
+      "slug": "the-skill-that-made-steve-jobs-exceptional-and-how-to-learn-it",
+      "episodeNumber": 809,
+      "date": "2026-03-27",
+      "guest": "",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sam Parr lays out a four-step process for developing good taste — the skill he argues is becoming the ultimate moat in the age of AI. He traces the line from Bauhaus to Braun to the iPod to show how Steve Jobs used this exact playbook, then walks through how he personally applied it to fashion and how anyone can use it for web design, writing, or building a brand.",
+      "duration": "0h 20m",
+      "youtubeId": "bkkwlEK6_hQ",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sam Parr",
+      "slug": "sam-parr",
+      "role": "Host",
+      "bio": "Co-host of My First Million. Founder of The Hustle (acquired by HubSpot). Co-founder of Hampton.",
+      "avatar": "",
+      "twitter": "https://x.com/theSamParr",
+      "website": "",
+      "isHost": true
+    }
+  },
+  {
+    "title": "The Two Tests for a Legitimate Self-Help Guru",
+    "slug": "two-tests-legitimate-self-help-guru",
+    "tag": "framework",
+    "episode": "why-the-self-help-industry-is-built-on-lies",
+    "source": "shaan-puri",
+    "oneLiner": "Is the advice the best available? Are they lying about who they are?",
+    "body": "Shaan proposes a simple two-part test for evaluating any self-help figure. First: is the advice itself high quality and actionable, regardless of who's giving it? Second: is the person being honest about their credentials and experience? You can fail one test and still be useful. A fraud with great advice is still worth reading — you just need to know what you're dealing with. But someone who fails both tests is just noise.",
+    "episodeData": {
+      "title": "Why the Self-Help Industry Is Built on Lies",
+      "slug": "why-the-self-help-industry-is-built-on-lies",
+      "episodeNumber": 458,
+      "date": "2025-01-22",
+      "guest": "",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sam and Shaan dissect the self-help industrial complex — from Napoleon Hill's fabricated credentials to the pottery experiment that proves quantity beats quality. A sharp look at what actually works vs. what just sells books.",
+      "duration": "58m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Shaan Puri",
+      "slug": "shaan-puri",
+      "role": "Host",
+      "bio": "Co-host of My First Million. Former CEO of Bebo (acquired by Twitch). Angel investor and internet entrepreneur.",
+      "avatar": "",
+      "twitter": "https://x.com/ShaanVP",
+      "website": "",
+      "isHost": true
+    }
+  },
+  {
+    "title": "How a16z Won VC by Bringing a Gun to a Knife Fight",
+    "slug": "a16z-content-gun-to-knife-fight",
+    "tag": "growth-distribution",
+    "episode": "the-simple-way-to-create-more-luck",
+    "source": "sheel-mohnot",
+    "oneLiner": "Every VC had a blog. a16z treated content like a company-within-a-company.",
+    "body": "When Andreessen Horowitz launched, the VC world already had blogs and newsletters. But a16z didn't just blog — they built a full media operation with dedicated editorial staff, produced podcasts, hosted events, and created a content engine that most media companies would envy. They understood that in a world where every VC has money, the one with the best distribution wins the best deals.",
+    "episodeData": {
+      "title": "The Simple Way to Create More Luck, Friends, and Opportunity",
+      "slug": "the-simple-way-to-create-more-luck",
+      "episodeNumber": 457,
+      "date": "2025-01-15",
+      "guest": "sheel-mohnot",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sheel Mohnot breaks down how to engineer luck through asymmetric bets, power law thinking, and building relationships with a bias toward action. A masterclass in thinking about risk, upside, and what most founders get wrong.",
+      "duration": "1h 12m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sheel Mohnot",
+      "slug": "sheel-mohnot",
+      "role": "Investor",
+      "bio": "Investor who has deployed $450M across hundreds of startups. Co-founder of Better Tomorrow Ventures.",
+      "avatar": "",
+      "twitter": "https://x.com/pitdesi",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "The Right Hook Doesn't Travel Anymore: Why Content-to-Conversion Is Broken",
+    "slug": "jab-jab-right-hook-is-broken",
+    "tag": "growth-distribution",
+    "episode": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+    "source": "david-heinemeier-hansson",
+    "oneLiner": "Your interesting posts go viral. Your product launch post gets suppressed by the algorithm.",
+    "body": "The channel is owned social media audiences, particularly on X (Twitter). The historic playbook, which DHH and 37signals pioneered for 25 years, was Gary Vee's jab-jab-right-hook: share valuable content 100 times, then occasionally make an ask. The jabs built the audience and trust. The right hook, the product launch or call to action, converted that attention into revenue.\n\nThe mechanism that broke it is algorithmic distribution. Having a ton of followers used to mean a ton of people saw your stuff. Now the algorithm decides what gets shown. Interesting, engaging content still travels. But commercial posts, the right hooks, get suppressed. DHH sees this clearly in his own experience: the trickle-down from daily interesting content to occasional product promotion has stopped converting the way it once did.\n\nThe execution reality is that this is different from Facebook's old bait-and-switch of forcing pages to buy ads to reach their own followers. On X, ads still do not work particularly well either. 37signals tried them. What works is genuine virality, sharing novel and interesting things. But there is no reliable bridge from viral content to commercial conversion on these platforms anymore.\n\nThe risk for new founders is adopting this strategy as their sole growth channel. DHH still recommends sharing and teaching because it deepens your own learning and is good for its own sake. But he warns that people who share endlessly and never see commercial results back have a high probability of ending up bitter. If you are someone new, do not count on out-teaching your way to revenue the way 37signals did in 2003. The game has changed.",
+    "episodeData": {
+      "title": "DHH: $100M+ Advice That'll Piss Off Every Business Guru",
+      "slug": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+      "episodeNumber": 806,
+      "date": "2026-03-17",
+      "guest": "david-heinemeier-hansson",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "David Heinemeier Hansson, creator of Ruby on Rails and co-founder of Basecamp, shares 25 years of lessons from building a wildly profitable company without VC money, grinding culture, or AB tests. He breaks down why constraints breed creativity, why taste beats data, how he fought Apple over the App Store and won, and why his biggest public prediction failures taught him more than his wins. Plus, his rapid evolution on AI from skeptic to fully pilled in just three months.",
+      "duration": "1h 18m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "David Heinemeier Hansson",
+      "slug": "david-heinemeier-hansson",
+      "role": "Founder & CTO",
+      "bio": "Creator of Ruby on Rails, co-founder of 37signals and Basecamp, board member at Shopify, and Le Mans class winner. Has been building profitable software and writing about business contrarianism for over 25 years.",
+      "avatar": "",
+      "twitter": "https://x.com/dhh",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Don't Invest in AI Infrastructure at These Valuations",
+    "slug": "dont-invest-ai-infra-at-these-valuations",
+    "tag": "money-advice",
+    "episode": "the-simple-way-to-create-more-luck",
+    "source": "sheel-mohnot",
+    "oneLiner": "A great company at a bad price is still a bad investment.",
+    "body": "Sheel warns against chasing AI infrastructure companies at their current valuations. The companies might be excellent, but the prices already reflect perfection. When you invest at a valuation that requires everything to go right, your expected return approaches zero even if the company succeeds. The better play is to find the second-order beneficiaries — the companies that will thrive because AI infrastructure works, but whose stock prices don't yet reflect it.",
+    "episodeData": {
+      "title": "The Simple Way to Create More Luck, Friends, and Opportunity",
+      "slug": "the-simple-way-to-create-more-luck",
+      "episodeNumber": 457,
+      "date": "2025-01-15",
+      "guest": "sheel-mohnot",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sheel Mohnot breaks down how to engineer luck through asymmetric bets, power law thinking, and building relationships with a bias toward action. A masterclass in thinking about risk, upside, and what most founders get wrong.",
+      "duration": "1h 12m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sheel Mohnot",
+      "slug": "sheel-mohnot",
+      "role": "Investor",
+      "bio": "Investor who has deployed $450M across hundreds of startups. Co-founder of Better Tomorrow Ventures.",
+      "avatar": "",
+      "twitter": "https://x.com/pitdesi",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Ridiculous Margins: How Profit Buys You the Freedom to Ignore Best Practices",
+    "slug": "margin-is-freedom",
+    "tag": "money-advice",
+    "episode": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+    "source": "david-heinemeier-hansson",
+    "oneLiner": "When DHH told other founders his margins, they said: 'You mean gross, right?' He meant net.",
+    "body": "The principle is that margin equals freedom, and freedom compounds over decades. DHH describes 37signals' margins as \"ridiculous,\" to the point where other founders literally did not believe him. They assumed he was quoting gross margins. He was quoting net. When compared to public SaaS companies that hover around negative 10 to 20 percent while chasing unprofitable growth, 37signals was operating in an entirely different industry.\n\nThis compounds because every point of margin is a point of optionality. With wide margins, you do not need to run AB tests to squeeze out 0.01% conversion improvements. You do not need investors breathing down your neck about quarterly targets. You do not need to debase your copy because it converts slightly better for a moment. You get to follow taste, chase ambitious ideas, and build products you love.\n\nThe example is Hey, their email product. Launching a paid email service to compete with Gmail, which is free, is objectively ludicrous. But their Basecamp margins funded the experiment entirely. If Hey flopped, they still had plenty of runway. Hey did not flop. It is now in year five generating millions in revenue. That bet was only possible because of accumulated margin.\n\nApply this by resisting the urge to balloon your company to match your revenue. DHH and Fried grew headcount only to the point where they were not frustrated by their lack of progress. They pulled profits from year two. They had Jeff Bezos buy secondaries early on to set a personal financial baseline. The goal is not to maximize revenue but to maximize the gap between what you earn and what you spend, because that gap is where freedom lives.",
+    "episodeData": {
+      "title": "DHH: $100M+ Advice That'll Piss Off Every Business Guru",
+      "slug": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+      "episodeNumber": 806,
+      "date": "2026-03-17",
+      "guest": "david-heinemeier-hansson",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "David Heinemeier Hansson, creator of Ruby on Rails and co-founder of Basecamp, shares 25 years of lessons from building a wildly profitable company without VC money, grinding culture, or AB tests. He breaks down why constraints breed creativity, why taste beats data, how he fought Apple over the App Store and won, and why his biggest public prediction failures taught him more than his wins. Plus, his rapid evolution on AI from skeptic to fully pilled in just three months.",
+      "duration": "1h 18m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "David Heinemeier Hansson",
+      "slug": "david-heinemeier-hansson",
+      "role": "Founder & CTO",
+      "bio": "Creator of Ruby on Rails, co-founder of 37signals and Basecamp, board member at Shopify, and Le Mans class winner. Has been building profitable software and writing about business contrarianism for over 25 years.",
+      "avatar": "",
+      "twitter": "https://x.com/dhh",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Use AI to Get Licensed and Save Real Money",
+    "slug": "ai-licensing-hack",
+    "tag": "tactic",
+    "episode": "the-simple-way-to-create-more-luck",
+    "source": "sheel-mohnot",
+    "oneLiner": "Use AI to complete certification training for one-time cost-saving access.",
+    "body": "Sheel used AI tools to blast through a real estate licensing course in a fraction of the normal time. The license itself unlocked access to MLS data and commission savings on his own transactions. The tactic: identify certifications or licenses where the knowledge barrier has been lowered by AI, but the credential still carries real economic value.",
+    "episodeData": {
+      "title": "The Simple Way to Create More Luck, Friends, and Opportunity",
+      "slug": "the-simple-way-to-create-more-luck",
+      "episodeNumber": 457,
+      "date": "2025-01-15",
+      "guest": "sheel-mohnot",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sheel Mohnot breaks down how to engineer luck through asymmetric bets, power law thinking, and building relationships with a bias toward action. A masterclass in thinking about risk, upside, and what most founders get wrong.",
+      "duration": "1h 12m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sheel Mohnot",
+      "slug": "sheel-mohnot",
+      "role": "Investor",
+      "bio": "Investor who has deployed $450M across hundreds of startups. Co-founder of Better Tomorrow Ventures.",
+      "avatar": "",
+      "twitter": "https://x.com/pitdesi",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Copywork: The Fastest Way to Learn Any Creative Skill",
+    "slug": "copywork-to-learn-any-creative-skill",
+    "tag": "tactic",
+    "episode": "the-skill-that-made-steve-jobs-exceptional-and-how-to-learn-it",
+    "source": "sam-parr",
+    "oneLiner": "Copy the greats word for word — not to plagiarize, but to learn the texture of what makes them great.",
+    "body": "The move is simple: find work you love and copy it exactly, by hand. Sam did this with David Ogilvy ads — he spent hours every day for six to eight months during what he calls his \"apprentice period,\" copying Ogilvy's work word for word on paper. The goal is not to steal. The goal is to internalize the texture of what makes great work great.\n\nThis applies far beyond writing. For web design, Sam recommends saving 30 to 40 websites that speak to you over three to four weeks, then printing them out and literally drawing them pixel by pixel — where the buttons are, what they say, how they are laid out. If you are a designer, do it in Figma. The point is the same: when you reproduce something by hand, you notice things you would never catch by just looking.\n\nFor fashion, Sam unfollowed everyone on Instagram, then re-followed only people whose style he admired. He figured out what brands they were tagging and bought the same stuff. It sounds almost too simple, but he says the intense exposure combined with blind copying is what eventually trains your eye to recognize patterns and develop preferences that are genuinely your own.",
+    "episodeData": {
+      "title": "The Skill That Made Steve Jobs Exceptional (and how to learn it)",
+      "slug": "the-skill-that-made-steve-jobs-exceptional-and-how-to-learn-it",
+      "episodeNumber": 809,
+      "date": "2026-03-27",
+      "guest": "",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sam Parr lays out a four-step process for developing good taste — the skill he argues is becoming the ultimate moat in the age of AI. He traces the line from Bauhaus to Braun to the iPod to show how Steve Jobs used this exact playbook, then walks through how he personally applied it to fashion and how anyone can use it for web design, writing, or building a brand.",
+      "duration": "0h 20m",
+      "youtubeId": "bkkwlEK6_hQ",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sam Parr",
+      "slug": "sam-parr",
+      "role": "Host",
+      "bio": "Co-host of My First Million. Founder of The Hustle (acquired by HubSpot). Co-founder of Hampton.",
+      "avatar": "",
+      "twitter": "https://x.com/theSamParr",
+      "website": "",
+      "isHost": true
+    }
+  },
+  {
+    "title": "Don't Build the App. Make the Video First.",
+    "slug": "make-the-video-first",
+    "tag": "tactic",
+    "episode": "dumb-iphone-apps-are-making-people-rich-again",
+    "source": "pat-walls",
+    "oneLiner": "TikTok is a free focus group that gives you real signal in 48 hours.",
+    "body": "Before writing a single line of code, make a TikTok video showing what the app would do. If the video gets traction, build the app. If it doesn't, you just saved yourself weeks of development time. Pat's insight: TikTok's algorithm gives you an honest signal about market demand faster than any other method. The video is your MVP, not the app.",
+    "episodeData": {
+      "title": "Dumb iPhone Apps Are Making People Rich Again",
+      "slug": "dumb-iphone-apps-are-making-people-rich-again",
+      "episodeNumber": 459,
+      "date": "2025-01-29",
+      "guest": "pat-walls",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Pat Walls shares how simple, 'dumb' iPhone apps are generating serious revenue again thanks to AI-lowered build costs and TikTok distribution. Plus a framework for knowing when you're stuck vs. when you just need to double down.",
+      "duration": "1h 05m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Pat Walls",
+      "slug": "pat-walls",
+      "role": "Founder",
+      "bio": "Founder of Starter Story — the largest collection of startup case studies on the internet, acquired by HubSpot.",
+      "avatar": "",
+      "twitter": "https://x.com/thepatwalls",
+      "website": "https://starterstory.com",
+      "isHost": false
+    }
+  },
+  {
+    "title": "The Mel Robbins 5-Second Rule",
+    "slug": "mel-robbins-5-second-rule",
+    "tag": "tactic",
+    "episode": "why-the-self-help-industry-is-built-on-lies",
+    "source": "sam-parr",
+    "oneLiner": "Count 5-4-3-2-1 and move. The body acts before the brain talks you out of it.",
+    "body": "When you feel the impulse to do something you know you should do — speak up in a meeting, start the workout, make the call — count 5-4-3-2-1 and physically move. The countdown interrupts the habit loop that normally kicks in to talk you out of action. It's stupidly simple, which is why it works. The gap between knowing what to do and doing it is almost always a hesitation problem, not a knowledge problem.",
+    "episodeData": {
+      "title": "Why the Self-Help Industry Is Built on Lies",
+      "slug": "why-the-self-help-industry-is-built-on-lies",
+      "episodeNumber": 458,
+      "date": "2025-01-22",
+      "guest": "",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sam and Shaan dissect the self-help industrial complex — from Napoleon Hill's fabricated credentials to the pottery experiment that proves quantity beats quality. A sharp look at what actually works vs. what just sells books.",
+      "duration": "58m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sam Parr",
+      "slug": "sam-parr",
+      "role": "Host",
+      "bio": "Co-host of My First Million. Founder of The Hustle (acquired by HubSpot). Co-founder of Hampton.",
+      "avatar": "",
+      "twitter": "https://x.com/theSamParr",
+      "website": "",
+      "isHost": true
+    }
+  },
+  {
+    "title": "Out-Teach Instead of Outspend: The Original 37signals Growth Playbook",
+    "slug": "out-teach-the-competition",
+    "tag": "tactic",
+    "episode": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+    "source": "david-heinemeier-hansson",
+    "oneLiner": "If you can't buy awareness, you have to earn it by being ruthlessly honest about what you've learned.",
+    "body": "The tactic is straightforward: if you never raised VC and never had more money than anyone else, you cannot buy ads and awareness. You have to earn it. The way to earn it is to be interesting. Not interesting as an objective, but interesting as a byproduct of being ruthlessly honest and forthright about everything you learn.\n\nDHH explains why this works. Most business advice comes from two sources: people who are observing but not doing, or entrepreneurs who are active but constrained by investors, public listings, or board obligations. 37signals had neither constraint. They were in the thick of running their own business, making more money than they spent, and nobody could tell them no.\n\nExecute this by capturing observations and lessons from your actual work and distributing them broadly. 37signals has been doing this since their 1999 manifesto, through Getting Real, Rework, and daily blog posts. Lead with philosophy rather than features. Their website reads like a book of beliefs, not a product page.\n\nThe risk DHH now identifies: this tactic may not convert as well as it once did. Social media algorithms have broken the trickle-down effect. You can share interesting content that goes viral, but when you occasionally ask people to check out your product, that post gets suppressed. The jab-jab-right-hook model, as Gary Vee described it, still works for the jabs but the right hook does not travel anymore. DHH would still recommend sharing for your own learning, but cautions against relying on it as your sole growth strategy today.",
+    "episodeData": {
+      "title": "DHH: $100M+ Advice That'll Piss Off Every Business Guru",
+      "slug": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+      "episodeNumber": 806,
+      "date": "2026-03-17",
+      "guest": "david-heinemeier-hansson",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "David Heinemeier Hansson, creator of Ruby on Rails and co-founder of Basecamp, shares 25 years of lessons from building a wildly profitable company without VC money, grinding culture, or AB tests. He breaks down why constraints breed creativity, why taste beats data, how he fought Apple over the App Store and won, and why his biggest public prediction failures taught him more than his wins. Plus, his rapid evolution on AI from skeptic to fully pilled in just three months.",
+      "duration": "1h 18m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "David Heinemeier Hansson",
+      "slug": "david-heinemeier-hansson",
+      "role": "Founder & CTO",
+      "bio": "Creator of Ruby on Rails, co-founder of 37signals and Basecamp, board member at Shopify, and Le Mans class winner. Has been building profitable software and writing about business contrarianism for over 25 years.",
+      "avatar": "",
+      "twitter": "https://x.com/dhh",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Build a Passion Hook to Stand Out in Social Situations",
+    "slug": "passion-hook-social-situations",
+    "tag": "tactic",
+    "episode": "why-the-self-help-industry-is-built-on-lies",
+    "source": "shaan-puri",
+    "oneLiner": "Develop a specific, niche hobby that makes you memorable and gives you a natural opener.",
+    "body": "Most people at networking events describe themselves by their job title. Shaan argues you should develop a \"passion hook\" — a specific, unusual hobby or interest that makes you instantly memorable. It gives you something genuine to talk about, signals that you're a real person with depth, and creates natural follow-up conversations. The person who \"builds custom mechanical keyboards\" is more memorable than the \"VP of Marketing at a SaaS company.\"",
+    "episodeData": {
+      "title": "Why the Self-Help Industry Is Built on Lies",
+      "slug": "why-the-self-help-industry-is-built-on-lies",
+      "episodeNumber": 458,
+      "date": "2025-01-22",
+      "guest": "",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sam and Shaan dissect the self-help industrial complex — from Napoleon Hill's fabricated credentials to the pottery experiment that proves quantity beats quality. A sharp look at what actually works vs. what just sells books.",
+      "duration": "58m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Shaan Puri",
+      "slug": "shaan-puri",
+      "role": "Host",
+      "bio": "Co-host of My First Million. Former CEO of Bebo (acquired by Twitch). Angel investor and internet entrepreneur.",
+      "avatar": "",
+      "twitter": "https://x.com/ShaanVP",
+      "website": "",
+      "isHost": true
+    }
+  },
+  {
+    "title": "The Twitter Mutual Move: Turn Followers Into Real-Life Relationships",
+    "slug": "twitter-mutual-move",
+    "tag": "tactic",
+    "episode": "the-simple-way-to-create-more-luck",
+    "source": "sheel-mohnot",
+    "oneLiner": "Before any trip, DM your Twitter mutuals in that city. Highest-ROI relationship tactic.",
+    "body": "Every time Sheel travels to a new city, he DMs his Twitter mutuals who live there and sets up coffee or dinner. It costs nothing, takes five minutes, and has led to some of his best deals and friendships. The insight: your online network is a dormant asset. Most people never activate it. The ones who do create an unfair advantage in deal flow, information, and serendipity.",
+    "episodeData": {
+      "title": "The Simple Way to Create More Luck, Friends, and Opportunity",
+      "slug": "the-simple-way-to-create-more-luck",
+      "episodeNumber": 457,
+      "date": "2025-01-15",
+      "guest": "sheel-mohnot",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sheel Mohnot breaks down how to engineer luck through asymmetric bets, power law thinking, and building relationships with a bias toward action. A masterclass in thinking about risk, upside, and what most founders get wrong.",
+      "duration": "1h 12m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sheel Mohnot",
+      "slug": "sheel-mohnot",
+      "role": "Investor",
+      "bio": "Investor who has deployed $450M across hundreds of startups. Co-founder of Better Tomorrow Ventures.",
+      "avatar": "",
+      "twitter": "https://x.com/pitdesi",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Write a Treatment Before You Film Anything",
+    "slug": "write-a-treatment-before-filming",
+    "tag": "tactic",
+    "episode": "dumb-iphone-apps-are-making-people-rich-again",
+    "source": "pat-walls",
+    "oneLiner": "If you can't articulate why someone would click before you make it, you probably can't make them click after.",
+    "body": "A treatment is a short written document that describes what a video will be before you film it: the hook, the structure, the payoff. Pat argues that if you can't write a compelling treatment, the video itself won't be compelling either. It forces you to think about the audience's perspective before you invest time in production. It's the content creator's equivalent of writing the press release before building the product.",
+    "episodeData": {
+      "title": "Dumb iPhone Apps Are Making People Rich Again",
+      "slug": "dumb-iphone-apps-are-making-people-rich-again",
+      "episodeNumber": 459,
+      "date": "2025-01-29",
+      "guest": "pat-walls",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Pat Walls shares how simple, 'dumb' iPhone apps are generating serious revenue again thanks to AI-lowered build costs and TikTok distribution. Plus a framework for knowing when you're stuck vs. when you just need to double down.",
+      "duration": "1h 05m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Pat Walls",
+      "slug": "pat-walls",
+      "role": "Founder",
+      "bio": "Founder of Starter Story — the largest collection of startup case studies on the internet, acquired by HubSpot.",
+      "avatar": "",
+      "twitter": "https://x.com/thepatwalls",
+      "website": "https://starterstory.com",
+      "isHost": false
+    }
+  },
+  {
+    "title": "How DHH Went to War with Apple Over a 30% Shakedown and Won",
+    "slug": "apple-shakedown",
+    "tag": "wild-story",
+    "episode": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+    "source": "david-heinemeier-hansson",
+    "oneLiner": "Apple assumed they'd fold like every other software company. They assumed wrong.",
+    "body": "When 37signals launched Hey, their Gmail competitor, they built it the same way they had always built Basecamp: a free companion app in the App Store that connected to a web product where all payments happened. No in-app purchases, no Apple involvement in the transaction. They had done this with Basecamp for years without issue.\n\nBut Apple had changed its mind. It wanted more. The shakedown demand was simple: use in-app purchasing and hand over 30% of your revenue, or we will destroy your business. For a company that had spent years and millions of dollars building Hey, the threat was existential. Without an iPhone app, an email service cannot compete. Apple controlled the gate to the market.\n\nApple assumed 37signals would do what virtually every other company does: grumble, pay the toll, and call it the cost of doing business. But DHH and Jason Fried had spent decades building a company with massive margins and zero investor pressure. They had the financial independence to say no and mean it. DHH said he would rather burn down millions of dollars than pay what he called a gangster shakedown. What followed was a two-week public skirmish that caught Apple completely off guard.\n\nIn the end, Apple essentially rewrote its rules to fit an exemption around Hey. The episode also pushed DHH to explore the world beyond Apple's walled garden. He built his own Linux distribution, now used by tens of thousands of people, discovered mechanical keyboards, Hyperland, and Arch Linux. He went from being a 20-year Mac superfan who literally starred in an Apple ad to a Framework desktop running a custom Linux setup. Sometimes the biggest creative breakthroughs come from having someone try to lock you out.",
+    "episodeData": {
+      "title": "DHH: $100M+ Advice That'll Piss Off Every Business Guru",
+      "slug": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+      "episodeNumber": 806,
+      "date": "2026-03-17",
+      "guest": "david-heinemeier-hansson",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "David Heinemeier Hansson, creator of Ruby on Rails and co-founder of Basecamp, shares 25 years of lessons from building a wildly profitable company without VC money, grinding culture, or AB tests. He breaks down why constraints breed creativity, why taste beats data, how he fought Apple over the App Store and won, and why his biggest public prediction failures taught him more than his wins. Plus, his rapid evolution on AI from skeptic to fully pilled in just three months.",
+      "duration": "1h 18m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "David Heinemeier Hansson",
+      "slug": "david-heinemeier-hansson",
+      "role": "Founder & CTO",
+      "bio": "Creator of Ruby on Rails, co-founder of 37signals and Basecamp, board member at Shopify, and Le Mans class winner. Has been building profitable software and writing about business contrarianism for over 25 years.",
+      "avatar": "",
+      "twitter": "https://x.com/dhh",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "The Breaking Bad House (How Sheel Almost Bought TV History)",
+    "slug": "breaking-bad-house",
+    "tag": "wild-story",
+    "episode": "the-simple-way-to-create-more-luck",
+    "source": "sheel-mohnot",
+    "oneLiner": "He built a full financial model. He lost to a streamer who turned the house into content.",
+    "body": "When the Breaking Bad house in Albuquerque went up for sale, Sheel did what any good investor would do: he built a spreadsheet. He modeled the Airbnb revenue, the tourist foot traffic, the maintenance costs. He was ready to buy. But he lost the bid to a content creator who turned the house into a streaming set and monetized it in ways the spreadsheet never predicted. The lesson: sometimes the analytical approach loses to the creative one.",
+    "episodeData": {
+      "title": "The Simple Way to Create More Luck, Friends, and Opportunity",
+      "slug": "the-simple-way-to-create-more-luck",
+      "episodeNumber": 457,
+      "date": "2025-01-15",
+      "guest": "sheel-mohnot",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sheel Mohnot breaks down how to engineer luck through asymmetric bets, power law thinking, and building relationships with a bias toward action. A masterclass in thinking about risk, upside, and what most founders get wrong.",
+      "duration": "1h 12m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sheel Mohnot",
+      "slug": "sheel-mohnot",
+      "role": "Investor",
+      "bio": "Investor who has deployed $450M across hundreds of startups. Co-founder of Better Tomorrow Ventures.",
+      "avatar": "",
+      "twitter": "https://x.com/pitdesi",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Building Your Own Yacht (The Aristotle Onassis Relationship Hack)",
+    "slug": "building-your-own-yacht",
+    "tag": "wild-story",
+    "episode": "the-simple-way-to-create-more-luck",
+    "source": "sheel-mohnot",
+    "oneLiner": "You don't need a yacht. You need a yacht — a podcast, a dinner, a cabin in Tahoe.",
+    "body": "Aristotle Onassis didn't just buy a yacht to flex. He bought it because it was the ultimate relationship-building machine — a floating venue where he could host world leaders, business moguls, and celebrities in an intimate setting where deals got done. Sheel's point: you don't need an actual yacht. You need your version of it. A podcast, a recurring dinner series, a ski cabin. Something that gives people a reason to spend time with you that isn't transactional.",
+    "episodeData": {
+      "title": "The Simple Way to Create More Luck, Friends, and Opportunity",
+      "slug": "the-simple-way-to-create-more-luck",
+      "episodeNumber": 457,
+      "date": "2025-01-15",
+      "guest": "sheel-mohnot",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sheel Mohnot breaks down how to engineer luck through asymmetric bets, power law thinking, and building relationships with a bias toward action. A masterclass in thinking about risk, upside, and what most founders get wrong.",
+      "duration": "1h 12m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sheel Mohnot",
+      "slug": "sheel-mohnot",
+      "role": "Investor",
+      "bio": "Investor who has deployed $450M across hundreds of startups. Co-founder of Better Tomorrow Ventures.",
+      "avatar": "",
+      "twitter": "https://x.com/pitdesi",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "From Bauhaus to the iPod: A 100-Year Design Thread",
+    "slug": "from-bauhaus-to-the-ipod",
+    "tag": "wild-story",
+    "episode": "the-skill-that-made-steve-jobs-exceptional-and-how-to-learn-it",
+    "source": "sam-parr",
+    "oneLiner": "A radio designed by an angry post-war German became the blueprint for the iPod.",
+    "body": "Germany, 1919. World War I has just ended, the economy is destroyed, and a generation of young people are furious. One of them is an architect named Walter Gropius. He looks at the ornamental Victorian design of the older generation — the same people he blames for the war — and rejects it entirely. He creates a school called Bauhaus built on a radical idea: strip everything down to its essentials. No decoration for decoration's sake. Only what the user needs.\n\nDecades later, a German designer named Dieter Rams, steeped in the Bauhaus school of thought, gets hired by Braun to design a new radio. The result is the T3 — minimal buttons, clean lines, nothing unnecessary. It was beautiful because of what it left out.\n\nFast forward to the early 2000s. A guy in California becomes obsessed with the T3 radio. He studies its history. He knows why every decision was made. That guy is Steve Jobs. Jony Ive later wrote that the iPod was directly inspired by the Braun T3 — they wanted to capture that same timeless, essential quality. One hundred years of tradition, from post-war defiance to the most iconic consumer product of a generation, all connected by a single design philosophy: less is more.",
+    "episodeData": {
+      "title": "The Skill That Made Steve Jobs Exceptional (and how to learn it)",
+      "slug": "the-skill-that-made-steve-jobs-exceptional-and-how-to-learn-it",
+      "episodeNumber": 809,
+      "date": "2026-03-27",
+      "guest": "",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sam Parr lays out a four-step process for developing good taste — the skill he argues is becoming the ultimate moat in the age of AI. He traces the line from Bauhaus to Braun to the iPod to show how Steve Jobs used this exact playbook, then walks through how he personally applied it to fashion and how anyone can use it for web design, writing, or building a brand.",
+      "duration": "0h 20m",
+      "youtubeId": "bkkwlEK6_hQ",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sam Parr",
+      "slug": "sam-parr",
+      "role": "Host",
+      "bio": "Co-host of My First Million. Founder of The Hustle (acquired by HubSpot). Co-founder of Hampton.",
+      "avatar": "",
+      "twitter": "https://x.com/theSamParr",
+      "website": "",
+      "isHost": true
+    }
+  },
+  {
+    "title": "From Slave Songs to G-Funk: How Great Taste Travels Through History",
+    "slug": "how-slave-songs-became-g-funk",
+    "tag": "wild-story",
+    "episode": "the-skill-that-made-steve-jobs-exceptional-and-how-to-learn-it",
+    "source": "sam-parr",
+    "oneLiner": "Dr. Dre's G-Funk can be traced in a direct line back to gospel music and slave songs.",
+    "body": "Sam traces the lineage of Dr. Dre's music back through five generations of musical tradition. It starts with slave songs — the things people would sing in the fields. Those songs evolved into gospel music. Gospel became the foundation for Motown, which was one of the first times black music crossed over into the mainstream. The Supremes, and artists like them, built on that gospel tradition to create something new.\n\nGeorge Clinton was a studio musician at Motown. He learned the craft, mastered the form, then felt something in his soul that Motown could not express. He broke the rules, adding psychedelic funk to create Parliament — music that was still clearly Motown-influenced but wilder and stranger. Then Dr. Dre came along and sampled Clinton constantly, creating G-Funk: gangster funk. Even early NWA tracks like \"Express Yourself\" were basically covers of 1970s songs with Dre rapping over the beat.\n\nSam uses this chain to illustrate the difference between good taste and great taste. Good taste is mastering the tradition. Great taste is mastering it and then breaking the rules to say something new. Early Kanye and early Dre started by basically covering old songs — that is good taste. Then they started chopping samples, pitching them up, reassembling them into something that had never existed before. That leap from archivist to innovator is the progression Sam is mapping out.",
+    "episodeData": {
+      "title": "The Skill That Made Steve Jobs Exceptional (and how to learn it)",
+      "slug": "the-skill-that-made-steve-jobs-exceptional-and-how-to-learn-it",
+      "episodeNumber": 809,
+      "date": "2026-03-27",
+      "guest": "",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sam Parr lays out a four-step process for developing good taste — the skill he argues is becoming the ultimate moat in the age of AI. He traces the line from Bauhaus to Braun to the iPod to show how Steve Jobs used this exact playbook, then walks through how he personally applied it to fashion and how anyone can use it for web design, writing, or building a brand.",
+      "duration": "0h 20m",
+      "youtubeId": "bkkwlEK6_hQ",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sam Parr",
+      "slug": "sam-parr",
+      "role": "Host",
+      "bio": "Co-host of My First Million. Founder of The Hustle (acquired by HubSpot). Co-founder of Hampton.",
+      "avatar": "",
+      "twitter": "https://x.com/theSamParr",
+      "website": "",
+      "isHost": true
+    }
+  },
+  {
+    "title": "The Pottery Experiment: Why Quantity Beats Quality",
+    "slug": "pottery-experiment-quantity-beats-quality",
+    "tag": "wild-story",
+    "episode": "why-the-self-help-industry-is-built-on-lies",
+    "source": "shaan-puri",
+    "oneLiner": "When you think you have a quality problem, you usually have a quantity problem.",
+    "body": "A ceramics professor divided his class in two. One group was graded on the quantity of pots they made. The other was graded on the quality of a single pot. At the end of the semester, the quantity group produced the best pots. They learned through iteration — each pot taught them something the next one used. The quality group sat around theorizing about perfection and produced mediocre work.",
+    "episodeData": {
+      "title": "Why the Self-Help Industry Is Built on Lies",
+      "slug": "why-the-self-help-industry-is-built-on-lies",
+      "episodeNumber": 458,
+      "date": "2025-01-22",
+      "guest": "",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sam and Shaan dissect the self-help industrial complex — from Napoleon Hill's fabricated credentials to the pottery experiment that proves quantity beats quality. A sharp look at what actually works vs. what just sells books.",
+      "duration": "58m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Shaan Puri",
+      "slug": "shaan-puri",
+      "role": "Host",
+      "bio": "Co-host of My First Million. Former CEO of Bebo (acquired by Twitch). Angel investor and internet entrepreneur.",
+      "avatar": "",
+      "twitter": "https://x.com/ShaanVP",
+      "website": "",
+      "isHost": true
+    }
+  },
+  {
+    "title": "Shopify's 30% Growth in Year 22: A Glitch in the Matrix Nobody Can Explain",
+    "slug": "shopify-glitch-in-the-matrix",
+    "tag": "wild-story",
+    "episode": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+    "source": "david-heinemeier-hansson",
+    "oneLiner": "Even at the board level, even Toby himself, nobody actually knows why it's working this well.",
+    "body": "DHH joined Shopify's board about a year and a half ago, initially after arguing to Toby Lutke that boards are boring snoozefests. Toby convinced him otherwise, and DHH discovered he had just been bored because previous boards operated at scales too similar to his own. Shopify operates in a different universe.\n\nThe staggering fact: Shopify grew almost 30% year-over-year last year, from a base of billions in revenue. DHH says he would have been happy with 30% growth early in his own company's life cycle. For Shopify to do it in year 22, from already massive numbers, feels like finding a glitch in the matrix. The law of big numbers says this should not happen.\n\nHere is the twist that fascinated DHH the most. Even sitting on the board, even talking to Toby directly, nobody actually knows why. They can come up with theories. The mission has been the same since Toby created Snow Devil: give people a toolkit to create a great-looking store rather than sell in the bazaar of Amazon. They have been chipping away at that for 20-plus years. And then suddenly the charts just go vertical.\n\nDHH draws a broader lesson from this: nobody knows anything. Not about why Shopify is growing this fast, not about where AI will be in two years, not about any of the big questions. We have theories. Very little of it reduces to irrefutable proof. He calls it compounding determinism over 20 years, which adds up in irregular ways where the inflection point sometimes takes a very long time to arrive. Toby was early on AI, early on agents, and still a computer nerd at heart running the 17th largest company in the world.",
+    "episodeData": {
+      "title": "DHH: $100M+ Advice That'll Piss Off Every Business Guru",
+      "slug": "dhh-100m-advice-thatll-piss-off-every-business-guru",
+      "episodeNumber": 806,
+      "date": "2026-03-17",
+      "guest": "david-heinemeier-hansson",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "David Heinemeier Hansson, creator of Ruby on Rails and co-founder of Basecamp, shares 25 years of lessons from building a wildly profitable company without VC money, grinding culture, or AB tests. He breaks down why constraints breed creativity, why taste beats data, how he fought Apple over the App Store and won, and why his biggest public prediction failures taught him more than his wins. Plus, his rapid evolution on AI from skeptic to fully pilled in just three months.",
+      "duration": "1h 18m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "David Heinemeier Hansson",
+      "slug": "david-heinemeier-hansson",
+      "role": "Founder & CTO",
+      "bio": "Creator of Ruby on Rails, co-founder of 37signals and Basecamp, board member at Shopify, and Le Mans class winner. Has been building profitable software and writing about business contrarianism for over 25 years.",
+      "avatar": "",
+      "twitter": "https://x.com/dhh",
+      "website": "",
+      "isHost": false
+    }
+  },
+  {
+    "title": "He Was 29, Living With His Mom, Making $8K a Month — And Couldn't See What Was Right in Front of Him",
+    "slug": "stuck-at-8k-driving-west-coast",
+    "tag": "wild-story",
+    "episode": "dumb-iphone-apps-are-making-people-rich-again",
+    "source": "pat-walls",
+    "oneLiner": "Sometimes you're not stuck because you need a new strategy. You're stuck because you refuse to see which thing is already working.",
+    "body": "Pat Walls tells the story of a guy making $8K/month from a simple app while living with his mom, convinced he was failing. He kept chasing new ideas instead of doubling down on the one that was already generating real revenue. He drove up and down the West Coast looking for inspiration when the answer was sitting in his app dashboard the whole time. The lesson: sometimes the thing that feels too small or too boring is exactly the thing you should go all-in on.",
+    "episodeData": {
+      "title": "Dumb iPhone Apps Are Making People Rich Again",
+      "slug": "dumb-iphone-apps-are-making-people-rich-again",
+      "episodeNumber": 459,
+      "date": "2025-01-29",
+      "guest": "pat-walls",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Pat Walls shares how simple, 'dumb' iPhone apps are generating serious revenue again thanks to AI-lowered build costs and TikTok distribution. Plus a framework for knowing when you're stuck vs. when you just need to double down.",
+      "duration": "1h 05m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Pat Walls",
+      "slug": "pat-walls",
+      "role": "Founder",
+      "bio": "Founder of Starter Story — the largest collection of startup case studies on the internet, acquired by HubSpot.",
+      "avatar": "",
+      "twitter": "https://x.com/thepatwalls",
+      "website": "https://starterstory.com",
+      "isHost": false
+    }
+  },
+  {
+    "title": "Think and Grow Rich Was Written by a Con Man",
+    "slug": "think-and-grow-rich-con-man",
+    "tag": "wild-story",
+    "episode": "why-the-self-help-industry-is-built-on-lies",
+    "source": "sam-parr",
+    "oneLiner": "The credentials were fake. The content held up. Evaluate the idea, not the origin story.",
+    "body": "Napoleon Hill claimed he spent 20 years interviewing Andrew Carnegie and the greatest industrialists of his era. Most of those meetings never happened. His credentials were largely fabricated, his personal life was a mess, and he died without the wealth he preached about. And yet — Think and Grow Rich remains one of the most influential business books ever written. The ideas work even though the man behind them was a fraud.",
+    "episodeData": {
+      "title": "Why the Self-Help Industry Is Built on Lies",
+      "slug": "why-the-self-help-industry-is-built-on-lies",
+      "episodeNumber": 458,
+      "date": "2025-01-22",
+      "guest": "",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sam and Shaan dissect the self-help industrial complex — from Napoleon Hill's fabricated credentials to the pottery experiment that proves quantity beats quality. A sharp look at what actually works vs. what just sells books.",
+      "duration": "58m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Sam Parr",
+      "slug": "sam-parr",
+      "role": "Host",
+      "bio": "Co-host of My First Million. Founder of The Hustle (acquired by HubSpot). Co-founder of Hampton.",
+      "avatar": "",
+      "twitter": "https://x.com/theSamParr",
+      "website": "",
+      "isHost": true
+    }
+  },
+  {
+    "title": "The Guy Who Vibe-Coded His Way to an OpenAI Acquisition",
+    "slug": "vibe-coded-openai-acquisition",
+    "tag": "wild-story",
+    "episode": "why-the-self-help-industry-is-built-on-lies",
+    "source": "shaan-puri",
+    "oneLiner": "One project, the right timing, and a genuine itch to scratch — that's still enough.",
+    "body": "A developer built a tool essentially by vibe-coding — following his instincts, scratching his own itch, shipping fast without overthinking. The tool caught OpenAI's attention and got acquired. No pitch deck, no fundraising rounds, no growth hacking. Just one person building something useful at the exact right moment. It's a reminder that timing plus authenticity can still beat strategy.",
+    "episodeData": {
+      "title": "Why the Self-Help Industry Is Built on Lies",
+      "slug": "why-the-self-help-industry-is-built-on-lies",
+      "episodeNumber": 458,
+      "date": "2025-01-22",
+      "guest": "",
+      "hosts": [
+        "shaan-puri",
+        "sam-parr"
+      ],
+      "description": "Sam and Shaan dissect the self-help industrial complex — from Napoleon Hill's fabricated credentials to the pottery experiment that proves quantity beats quality. A sharp look at what actually works vs. what just sells books.",
+      "duration": "58m",
+      "youtubeId": "",
+      "spotifyUrl": "",
+      "appleUrl": "",
+      "coverImage": ""
+    },
+    "authorData": {
+      "name": "Shaan Puri",
+      "slug": "shaan-puri",
+      "role": "Host",
+      "bio": "Co-host of My First Million. Former CEO of Bebo (acquired by Twitch). Angel investor and internet entrepreneur.",
+      "avatar": "",
+      "twitter": "https://x.com/ShaanVP",
+      "website": "",
+      "isHost": true
+    }
+  }
+]

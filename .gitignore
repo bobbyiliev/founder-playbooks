@@ -40,5 +40,8 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# generated content
-content/.generated/
+# generated content — committed to git so Cloudflare Pages can build without tsx
+# content/.generated/
+
+# scraper cache
+scripts/.cache/

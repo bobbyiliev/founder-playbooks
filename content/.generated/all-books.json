@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Think and Grow Rich",
+    "slug": "think-and-grow-rich",
+    "bookAuthor": "Napoleon Hill",
+    "coverImage": "",
+    "description": "The 1937 classic on goal-setting and persistence — written by a con man, but the advice holds up.",
+    "amazonUrl": "",
+    "mentions": [
+      {
+        "episode": "why-the-self-help-industry-is-built-on-lies",
+        "recommendedBy": "sam-parr",
+        "episodeTitle": "Why the Self-Help Industry Is Built on Lies",
+        "recommenderName": "Sam Parr"
+      }
+    ],
+    "timesRecommended": 1
+  }
+]
