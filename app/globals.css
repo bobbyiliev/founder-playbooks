@@ -1,0 +1,154 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-display: var(--font-display);
+  --font-serif: var(--font-serif);
+  --font-mono: var(--font-mono);
+}
+
+body {
+  background: #FAF8F5;
+  color: #2D2A26;
+}
+
+/* Font utility classes */
+.font-display {
+  font-family: var(--font-display), cursive;
+}
+
+.font-serif {
+  font-family: var(--font-serif), Georgia, serif;
+}
+
+.font-mono {
+  font-family: var(--font-mono), monospace;
+}
+
+/* Hand-drawn underline for links */
+.link-underline {
+  text-decoration: none;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='4' viewBox='0 0 100 4'%3E%3Cpath d='M0 3 Q25 0 50 3 Q75 6 100 3' stroke='%231B4965' stroke-width='1' fill='none' opacity='0.4'/%3E%3C/svg%3E");
+  background-repeat: repeat-x;
+  background-position: bottom;
+  background-size: 100px 4px;
+  padding-bottom: 2px;
+}
+
+.link-underline:hover {
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100' height='4' viewBox='0 0 100 4'%3E%3Cpath d='M0 3 Q25 0 50 3 Q75 6 100 3' stroke='%231B4965' stroke-width='1.5' fill='none' opacity='0.7'/%3E%3C/svg%3E");
+}
+
+/* Subtle bounce animation for Surprise Me */
+@keyframes subtle-bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-2px); }
+}
+
+.animate-subtle-bounce {
+  animation: subtle-bounce 2s ease-in-out infinite;
+}
+
+.animate-subtle-bounce:hover {
+  animation: none;
+}
+
+/* Staggered fade-in for card grids */
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in-up {
+  animation: fade-in-up 0.4s ease-out forwards;
+  opacity: 0;
+}
+
+/* Pencil line divider */
+.pencil-divider {
+  border: none;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, #d6d3d1 20%, #d6d3d1 80%, transparent);
+}
+
+/* Ruled lines background */
+.ruled-lines {
+  background-image: repeating-linear-gradient(
+    transparent,
+    transparent 27px,
+    #e7e5e4 27px,
+    #e7e5e4 28px
+  );
+}
+
+/* Prose styling for insight body content */
+.prose-insight {
+  line-height: 1.75;
+}
+
+.prose-insight p {
+  margin-bottom: 1em;
+}
+
+.prose-insight ul,
+.prose-insight ol {
+  margin-bottom: 1em;
+  padding-left: 1.5em;
+}
+
+.prose-insight li {
+  margin-bottom: 0.25em;
+}
+
+.prose-insight strong {
+  font-weight: 600;
+  color: #1c1917;
+}
+
+.prose-insight em {
+  font-style: italic;
+  color: #57534e;
+}
+
+.prose-insight h2,
+.prose-insight h3 {
+  font-weight: 600;
+  margin-top: 1.5em;
+  margin-bottom: 0.5em;
+  color: #1c1917;
+}
+
+.prose-insight blockquote {
+  border-left: 3px solid #d6d3d1;
+  padding-left: 1em;
+  margin: 1em 0;
+  color: #57534e;
+  font-style: italic;
+}
+
+/* Line clamp utilities */
+.line-clamp-1 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 1;
+}
+
+.line-clamp-2 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+.line-clamp-3 {
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+}
