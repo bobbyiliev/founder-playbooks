@@ -33,6 +33,11 @@ export const metadata: Metadata = {
     description:
       "The most structured founder knowledge database on the internet.",
     type: "website",
+    images: [{ url: "/og/home.png", width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: "summary_large_image",
+    images: ["/og/home.png"],
   },
 };
 

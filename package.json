@@ -3,11 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "tsx scripts/build-content.ts && next dev",
-    "build": "tsx scripts/build-content.ts && next build",
+    "dev": "tsx scripts/build-content.ts && tsx scripts/generate-og-images.ts && next dev",
+    "build": "tsx scripts/build-content.ts && tsx scripts/generate-og-images.ts && next build",
     "start": "next start",
     "lint": "eslint",
-    "build-content": "tsx scripts/build-content.ts"
+    "build-content": "tsx scripts/build-content.ts",
+    "build-og": "tsx scripts/generate-og-images.ts",
+    "build-og:force": "tsx scripts/generate-og-images.ts --force"
   },
   "dependencies": {
     "@mdx-js/loader": "^3.1.1",
@@ -19,7 +21,8 @@
     "react": "19.2.4",
     "react-dom": "19.2.4",
     "remark": "^15.0.1",
-    "remark-html": "^16.0.1"
+    "remark-html": "^16.0.1",
+    "sharp": "^0.34.5"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

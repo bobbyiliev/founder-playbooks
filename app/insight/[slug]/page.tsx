@@ -25,6 +25,11 @@ export async function generateMetadata({
     openGraph: {
       title: insight.title,
       description: insight.oneLiner,
+      images: [{ url: `/og/insight-${slug}.png`, width: 1200, height: 630 }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      images: [`/og/insight-${slug}.png`],
     },
   };
 }

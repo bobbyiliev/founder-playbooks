@@ -21,6 +21,15 @@ export async function generateMetadata({
   return {
     title: `${meta.label} — Founder Playbooks`,
     description: meta.description,
+    openGraph: {
+      title: `${meta.label} — Founder Playbooks`,
+      description: meta.description,
+      images: [{ url: `/og/explore-${tag}.png`, width: 1200, height: 630 }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      images: [`/og/explore-${tag}.png`],
+    },
   };
 }
 
